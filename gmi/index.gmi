@@ -2,12 +2,12 @@
 
 ### your number one source for linux phone news
 
-=> gemini://fossphones.com/news.gmi	News
-=> gemini://fossphones.com/os.gmi		Operating Systems
-=> gemini://fossphones.com/software.gmi	Software
-=> gemini://fossphones.com/devices.gmi	Devices
-=> gemini://fossphones.com/contact.gmi	Contact Us
-=> gemini://fossphones.com/about.gmi	About Us
+=> gemini://fossphones.com/news.gmi	      News
+=> gemini://fossphones.com/os.gmi		      Operating Systems
+=> gemini://fossphones.com/software.gmi	  Software
+=> gemini://fossphones.com/devices.gmi	  Devices
+=> gemini://fossphones.com/contact.gmi	  Contact Us
+=> gemini://fossphones.com/about.gmi	    About Us
 
 ## Welcome to FOSSphones!
 
