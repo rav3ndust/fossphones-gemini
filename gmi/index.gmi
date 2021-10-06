@@ -43,6 +43,7 @@ Like what we're doing? Send us some crypto if you want to contribute to keeping 
 * ETH:
 0xc51F36C9f939b721890c7df922D197cE068E4D4e
 
-* XMR:4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
 
 fossphones is proudly built and maintained by rav3ndust
