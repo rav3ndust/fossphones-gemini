@@ -1,0 +1,45 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+
+## Linux Phone News
+
+Here are some of the latest news and notes from around the world of Linux phones and mobile GNU/Linux distros.
+
+=> gemini://fossphones.com/01.gmi     What is FOSSphones?
+=> gemini://fossphones.com/02.gmi     How to Change Operating Systems on Your PinePhone
+=> gemini://fossphones.com/03.gmi     postmarketOS CE PinePhones to Begin Shipping
+=> gemini://fossphones.com/04.gmi     New PinePhone Manjaro Community Edition Announced
+=> gemini://fossphones.com/05.gmi     Linux Phones News Update - September 2020 
+=> gemini://fossphones.com/06.gmi     Why Are Linux Phones So Important? 
+=> gemini://fossphones.com/pinetime-giveaway.gmi    FOSSphones PineTime Giveaway Announcement
+=> gemini://fossphones.com/05-17.gmi  Linux Phone News - May 17, 2021
+=> gemini://fossphones.com/06-08.gmi  Linux Phone News - June 8, 2021
+=> gemini://fossphones.com/08-04.gmi  Linux Phone News - August 4, 2021
+=> gemini://fossphones.com/08-31.gmi  Linux Phone News - August 31, 2021
+=> gemini://fossphones.com/10-04.gmi  Linux Phone News - October 4, 2021
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust

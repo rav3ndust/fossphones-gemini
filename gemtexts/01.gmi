@@ -1,0 +1,59 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## What is FOSSphones?
+
+The goal of FOSSphones is to share all of the great updates currently happening in the exciting world of Linux phones that focus on using operating systems that have been developed, for the most part, by the huge free and open-source source (FOSS) community.
+
+There are a few options coming around for people interested in Linux phones, either because they are a Linux enthusiast or tinkerer excited to have a Linux handset in the palm of their hand (something we havenâ€™t truly had since the Nokia N900, released in 2009).
+
+### What about Android ROMs?
+Sure, you can scoop up an Android phone that is supported by custom ROMs and based on AOSP (Android Open Source Project), which is a great option for stripping out proprietary Android code and removing Google services from your device, but there are still a few things about these options that leave something to be desired.
+
+### Enter Linux Phones
+This is where Linux phones come in. Devices like the PinePhone from the makers of the Pine A64 and ROCKPro64 single-board computers, Pine64, and the Librem 5 from Purism, a company well known for its work on privacy-respecting laptops based on their PureOS platform, which is based on Debian.
+
+These Linux smartphones are finally becoming closer to being ready for daily use, especially the PinePhone, which has now been available and shipped in several batches (the Donâ€™t Be Evil dev kit, the Braveheart device, the Ubports Community Edition, and the newer PostmarketOS Community Edition, which remains available for pre-order at the moment on the Pine64 website, if you are interested in picking one up.
+
+The Librem 5 is still being actively worked on by Purism, with small batches being shipped to backers in phases. Purism worked hard to source mostly fully open-source hardware for their devices, and they created the Phosh user interface that is in use by so many mobile Linux distributions today.
+
+There are a great selection of mobile Linux operating systems being developed by various community projects, such as Ubports, the PostmarketOS community, and so many others. Choosing a Linux phone not only gives you the ability to use your phone in the same way you could use your computer, but it also offers you the same choice you would have with a selection of operating systems.
+
+### Respecting Your Freedom
+With a Linux phone like the PinePhone, you can simply flash an operating system to an SD card and insert it into the device. It will boot straight to the operating system you have flashed to the SD card, and of course, you can also flash the operating system to the device's internal storage using a tool like JumpDrive.
+
+Another great thing about choosing a Linux phone? Hardware killswitches. If you want the ultimate in privacy, these killswitches are a great way to make sure you are not being compromised without having to leave your phone at home. Devices like the PinePhone and Librem 5 enable you to shut off your phoneâ€™s radios (WiFi, Bluetooth), your cellular modem, your cameras, your microphone, and more. You even have the option to open your phone up, swap out the batteries, and change out other parts if you feel so inclined. With a Linux phone, you have true freedom.
+
+### FOSSphones is Here to Share the News
+At FOSSphones, we are going to work to continue to work on this site and bring the news of the newest updates in Linux phones, hardware, operating system development, privacy-respecting applications, and so much more. We also plan to incorporate a forum over the coming days so visitors to the site can speak about Linux phones, collaborate on coding projects or contribute to the further development of mobile Linux projects.
+
+I own a PinePhone Braveheart edition right now, and I also have a PostmarketOS Community Edition on pre-order, as well as being a backer of the Librem 5. I am working on developing a few applications for these phones, one of which I plan to put on the Ubuntu Touch OpenStore, and will be sharing the rest on my GitHub (and I welcome any contributions to my projects, so don't hesitate to submit a pull request!).
+
+I am deeply interested to see where we as a community can continue to push the development of free and open-source operating systems and privacy-respecting hardware with great devices like these Linux phones. As time goes on, these projects are only going to get better and better, and FOSSphones will be here to cover it every step of the way.
+
+Please note this site is under active construction, and I am going to continue to work hard to make it the best resource available on the internet for people who are curious about the latest news and information for all things about Linux phones.
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust

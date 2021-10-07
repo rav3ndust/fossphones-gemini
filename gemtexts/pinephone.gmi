@@ -1,0 +1,86 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## PinePhone
+
+### What is a "PinePhone"?
+
+The PinePhone is quickly becoming a well-known name among mobile Linux enthusiasts and tinkerers, and its first dev kit only shipped in late 2019. Made by the creator of the single-board computers like the PINE A64, the ROCK64, and the ROCKPro64, the PinePhone comes from Pine64, who also makes ARM-powered laptops like their original Pinebook and the newer Pinebook Pro machines.
+
+The PinePhone is something special out of the lineup, though. It represents one of the first true steps into a reality of Linux phones. Like the Librem 5, it comes with hardware killswitches, a removable battery, and user-replaceable parts.
+
+The battery is easy to replace and can be found very affordably online. The PinePhone is compatible with batteries that fit a Samsung Galaxy J7, and you can also buy replacement PinePhone batteries directly from Pine64 if you'd prefer.
+
+### PinePhone Specs and Privacy features
+
+Let's take a look at the technical specifications of the PinePhone before we delve into the privacy features:
+
+* Chipset: Allwinner A64
+
+* CPU: 64-bit Quad-core 1.2 GHz ARM Cortex A-53
+
+* GPU: Mali 400MP2
+
+* Internal Flash Storage: 16GB eMMC
+
+* RAM: 2GB LPDDR3 SDRAM
+
+* Expandable Storage: Up to 2TB
+
+* Rear Camera: 5MP 1/4â€³ LED Flash
+
+* Front Camera: 2MP f/2.8 1/5â€³
+
+* Charging: USB-C, supports Quick Charge
+
+Next, let's talk about the hardware killswitches. In the case of the PinePhone, there are 6 DIP switches, and they each cut or allow power to a specific part of a device. I took a closer photo of my PinePhone's back so you could see the sticker indicating what each switch does.
+
+The DIP switch functions on the PinePhone are as follows:
+
+* Modem: Cuts power to the cellular modem.
+
+* Wifi/BT: Cuts power to the Bluetooth and Wifi radios.
+
+* Microphone: Cuts power to the device's microphone.
+
+* Rear Camera: Cuts power to the device's rear camera.
+
+* Front Camera: Cuts power to the device's front camera.
+
+* Headphone: Allows you to use the headphone jack as a UART serial port.
+
+To top it all off, there will be other additions possibly coming to the PinePhone in the future, like a potential slide-out keyboard and other attachments thanks to the pogo pins on the device. There are all kinds of possibilities with this phone!
+
+### Where Can I Download Operating Systems For My PinePhone?
+Just like a computer, you have a wide selection of operating systems available to choose for your PinePhone. To learn about all of the different operating systems that the community is building and testing for the PinePhone, check out our Operating Systems list or peruse the information graciously provided by the community at the PinePhone wiki.
+
+=> https://wiki.pine64.org/index.php/PinePhone_Software_Releases            Check out the PinePhone Wiki!
+
+### Don't Yet Have a PinePhone?
+
+You're in luck if you're looking for a PinePhone, as Pine64 is currently selling the KDE Community Edition PinePhone, which will come preinstalled with Manjaro with KDE Plasma Mobile, but you can of course use any distro you'd prefer. This edition of the PinePhone is expected to ship out in January 2021, so make sure you get your order in quick at Pine64's store.
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust

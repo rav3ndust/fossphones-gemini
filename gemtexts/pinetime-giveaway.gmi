@@ -1,0 +1,57 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## FOSSphones Giveaway announcement
+
+We are pleased to announce that we are giving away a PineTime to one lucky FOSSphones reader. The PineTime is an open-source smartwatch from our friends at PINE64. There are several free and open-source operating system projects that have been painstaklingly worked on by the community for quite awhile now, including:
+
+* InfiniTime - which recently celebrated its 1.0 release.
+
+* wasp-os - a Micropython project loaded with cool features.
+
+* Various other software projects, which you can read about on the PineTime development wiki.
+
+### How You Can Enter
+
+So, you want to win yourself a PineTime? To enter our PineTime giveaway contest, it is very simple. All you need to do to enter is:
+
+* Write us a short blurb or make a video about why you think free and open-source software is important for users and for the world as a whole.
+
+* Your content doesn't need to be long, 300-500 words is fine. Just enough to explain why you think FOSS has value. If you don't feel like writing something up, you can always make a video, upload it to YouTube or Odysee, and tag it using the hashtag "fossphonesgiveaway".
+
+We will look through each and every submission, and the best one will receive a brand new PineTime flashed with the newest version of InfiniTime. The winning submission will also be featured right here on FOSSphones, where FOSS enthusiasts from all over the world will be able to check out the winner's content.
+
+The FOSSphones PineTime Giveaway contest will begin on April 30 and will go on until May 15. That gives everyone plenty of time to get in their submissions. When the contest is closed, we will go over all the submissions, choose the best one, and get in touch with the winner so we will know where to ship your PineTime.
+
+### I'm in! Where do I send my submission?
+
+To get your submission to us, simply email it to fossphones@firemail.cc and we will check it right out. You can also tweet it to us at our handle, @FSphones on neighborli or Twitter. If you make a video, be sure to get the link to us so we will be sure to check it out!
+
+Ready to get your new PineTime straight from your friends here at FOSSphones? Let us know all about why you care about free and open-source software, and we will ensure the winning submission gets their PineTime delivered to them!
+
+You've got 'til May 15 - get those creative juices flowing, and win yourself a cool FOSS gadget!
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust

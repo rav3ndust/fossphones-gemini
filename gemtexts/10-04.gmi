@@ -1,0 +1,87 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Linux Phone News - October 4, 2021
+
+I've had a lot going on last month, and wasn't able to get around to doing my news update for September! Luckily, a lot of cool new releases have happened over the past month, and I am happy to bring you some of the coolest new updates in the world of FOSS on mobile devices. Let's dive right in!
+
+### Manjaro Phosh (beta 16) For PinePhone is Out
+
+Manjaro is one of the most-loved GNU/Linux distributions on the planet, and it just keeps getting better when it comes to its ARM version for PinePhone. This beta release of Manjaro Phosh comes with a few of the following awesome updates for your device:
+
+* MMS support (yay!).
+
+* Individual splash screens for apps so users know the app is launching.
+
+* Updates to systemd (249.4), GNOME (40.4), Mesa (21.2.2), and an update to the Linux kernel (5.14.8).
+
+Want to explore this brand new beta for PinePhone on your device? I know I will be! Grab it from the link below so you can begin testing it out now:
+
+=> https://github.com/manjaro-pinephone/phosh/releases/tag/beta16   Grab Manjaro ARM Phosh beta 16 from GitHub!
+
+### InfiniTime 1.6 "Ice Apple" Released With a Great BLE Fix
+
+If you have a PineTime, rejoice! The new release of InfiniTime is out - and it brings a great update with it!
+
+Sometimes, InfiniTime users might have noticed their BLE (Bluetooth Low-Energy) connections would randomly drop out from their smartphone. This was due to a bug that the InfiniTime devs have been chasing around since the release of 1.0, and I am happy to say that they stomped it out.
+
+I downloaded 1.6 "Ice Apple" on my PineTime on release day, flashed it, and I have not had any connection issues since when it comes to my connection with my LineageOS device's Gadgetbridge. This release came hot on the heels of InfiniTime 1.5, and many PineTime users will definitely see this as a welcome update when it comes to keeping their watches connected to their device.
+
+Got a PineTime and haven't updated to the latest InfiniTime yet? Make sure you download it at the project's GitHub (linked below) and flash it to your own PineTime so you can begin enjoying this update for yourself.
+
+=> https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.6.0   Grab InfiniTime 1.6 Ice Apple For Your PineTime
+
+### Ubuntu Touch OTA-19 Released
+UBports announced that they have brought around the 19th stable update to Ubuntu Touch, labeled "OTA-19." The update is hitting a large amount of devices, including the F(x)tec Pro 1, the Cosmo Communicator, various Google Pixel and Nexus devices, OnePlus devices, Sony devices, Xiaomi devices, and plenty more.
+
+The update comes with several bugs and issues patched, including some audio issues and Wi-Fi negotiation problems. It is important to note that this release is not bringing the 20.04 base with it - this release of Ubuntu Touch is still based on Ubuntu 16.04.
+
+If you would like to read more about the update, see which devices it is available on, check out the full list of bugs fixed, and see how you can get the update for yourself, please check out the blog post from UBports.
+
+Please note that if you have a PinePhone or PineTab, you will not receive an update with the label "OTA-19" - these devices are updated separately by the UBports team.
+
+### PineTalk Podcast Coming Back
+
+In its September blog post, Pine64 let us know that the popular PineTalk podcast is coming back with a reworked schedule and new hosts. Episodes will be related to news in the space, as well as partner and community projects.
+
+You can find PineTalk on Spotify, Pine64's YouTube channel, and Pine64's Odysee channel. Give it a listen to see what the community is up to!
+
+
+### Several PinePhone Accessories Nearing the Greenlight
+Some of my most exciting items that I am ready to pick up from the Pine Store are the keyboard cases and back cases for fingerprint reading and wireless charging. In the community update, we got to see images of the PinePhone with the accessories attached, and several of them are ready to go, merely awaiting the greenlight from developers before they appear in the Pine Store.
+
+Rest assured, when I can get my hands on some of these accessories, I will be posting up some detailed reviews of them right here on FOSSphones.
+
+## = = = = = = = = = = 
+Thanks for stopping by and checking out our latest roundup of Linux Phone news. Check back for more, and remember to check out the FOSSphones Discourse forum if you would like to help grow our new little community and discuss all things FOSSphones. I am also thinking about getting a Matrix room together for anyone who would like to join it. I will update if I decide to do it.
+
+Thanks again, and we will see you again for the next round of Linux Phone news.
+
+## = = = = = = = = = =
+
+Thanks for checking out the latest edition of the FOSSphones news. Come discuss it in our new forum, and make sure you keep checking back for the latest in GNU/Linux on mobile devices.
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust

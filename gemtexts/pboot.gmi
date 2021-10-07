@@ -1,0 +1,90 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## p-boot: The PinePhone Multi-Distro Image
+
+What if you could test out all of the major PinePhone mobile GNU/Linux distros without having to swap your SD card around every time you felt like distro-hopping on your PinePhone? A great way you can do this is to grab the multi-distro demo image, known as p-boot, and use it on your Pinephone.
+
+What Mobile GNU/Linux Distros Are Included?
+Megi's p-boot is a fantastic project. I use it frequently so I can test out features in various mobile distros without having to keep track of several different SD cards. If you decide to give p-boot a shot, you can expect to be able to select from the following options on the bootscreen when you power up your PinePhone:
+
+* Arch Linux ARM
+
+* Arch Linux ARM/dreemurrs
+
+* Lune OS
+
+* Maemo Leste
+
+* Manjaro ARM with Phosh interface - beta2
+
+* Manjaro ARM with Plasma Desktop interface
+
+* Mobian
+
+* KDE neon
+
+* postmarketOS with Plasma Desktop interface
+
+* postmarketOS with fbkeyboard interface
+
+* postmarketOS with GNOME interface
+
+* postmarketOS with Plasma Mobile interface
+
+* postmarketOS with Phosh interface
+
+* SailfishOS
+
+* sxmo
+
+* Ubuntu Touch
+
+* JumpDrive 0.6
+
+That's right, 16 mobile GNU/Linux distros to play with, plus JumpDrive. Pretty neat.
+
+P-boot works fine on PinePhone BraveHeart edition and all Community Edition variants. As of the 2020-11-23 update to p-boot, you can also reboot your PinePhone to whatever distribution you have installed on the eMMC.
+
+## A Few Considerations
+When you download the p-boot image, you should keep in mind that the entire image is going to be about 6GB in size. To make sure you have plenty of room to test each distro and be able to save things as you test, I would recommend making sure you have at least a 16GB (or preferably higher) SD card.
+
+If you want, you can flash p-boot directly onto your PinePhone's eMMC storage.
+
+### Download p-boot For Yourself
+The p-boot image is mainly distributed as a torrent thanks to the size of the file, but you can also download it via HTTP if you prefer.
+
+Grab it for yourself:
+
+=> http://dl.xnux.eu/p-boot-multi-2020-11-23.torrent            Through this torrent link. 
+=> http://dl.xnux.eu/p-boot-multi-2020-11-23/                   Through HTTP download. 
+=> http://mirror.uxes.cz/dl.xnux.eu/                            Through this mirror.
+
+Your fastest option will be to use software such as Transmission to grab the torrent quickly.
+
+I'll be posting some images to this page featuring the p-boot image, and will probably be including a video walkthrough of the image.
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust

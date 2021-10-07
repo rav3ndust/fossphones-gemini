@@ -1,0 +1,69 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Why Are Linux Phones So Important?
+
+These days, we have decided that, effectively, two companies are in charge of how we use our mobile devices, and neither of these companies have the users' best interests at heart. What do I mean here?
+
+If you are not necessarily up on some of these issues, it can be tough to understand at first, especially if you aren't really a "techie." It is not very hard to see once you think about how each of these companies infringe upon the freedom you should have with a device you rightfully purchased.
+
+### Google: The Problem With Android
+
+Android is an interesting beast in the sense that it is, mostly, a free and open-source mobile operating system. Developed by Andy Rubin and friends as Android Inc., it was bought by Google, who then began offering it to anyone to use, such as the various hardware manufacturers who create Android devices.
+
+Android itself is built upon the Linux kernel, with a lot of customizations added in by Google. The base version of Android is known as the Android Open Source Project, or AOSP. Anyone is free to take the AOSP code and add to it as they wish to make their own version of the mobile operating system. In fact, many privacy-respecting Android forks exist, such as the well-known LineageOS and Resurrection Remix. In the past, CyanogenMod was the most popular Android fork. All of these forks can be used without Google Apps, or Gapps, the proprietary Google software that is added onto Google's version of Android.
+
+Without Google Services or any Google Apps, an Android device can be made to respect your privacy and can even run nothing but free and open-source apps by way of alternative Android app stores such as F-Droid. Using Google's version of Android is basically begging for your privacy to be invaded, as you are probably aware that Google is very known for using user data to push their advertising business.
+
+In short, if you want to use an Android device, make sure you are "de-Googling" it to protect your privacy.
+
+### Apple: The Problem With iOS
+
+With iOS, the issue is that you have absolutely zero control over your privacy. Apple is outspoken about privacy and security, but you are not able to control much of anything. You can only install apps approved by Apple in the iOS app store. While this is theoretically good to ensure your security from malware that could have snucj past Apple's vetting process for apps, it is a double-edged sword. You cannot download any applications from the internet as you can with Android, and you can't do much in the way of customization either. You are simply stuck with a grid of icons on your home screen, whether you like it or not.
+
+If you like any kinds of customization and control over your device, you're pretty much out of luck with iPhone. Also, iOS is closed-source, so we have no idea what is truly going on under the hood. For folks who care about free and open-source software, an Apple is a no-go.
+
+### What Can a Linux Phone Do?
+
+Enter Linux phones. These are devices such as the PinePhone, the Librem 5, and a few other options that are being released. They run mainline Linux, and they are capable of running your favorite GNU/Linux software that you are able to run on your Linux desktop. The operating systemn are built and maintained by the community, and they are free and open-source operating systems. There are so many popular options when it comes to operating systems for your Linux phone. You can grab Ubuntu Touch, Mobian, PostmarketOS, and so many others that are still in development and are only getting better and better as time goes on.
+
+On your Linux phone, you have access to a full Linux terminal, as you would on your desktop or laptop machine. You can do almost anything you could do on your GNU/Linux system with relative ease, although of course, in a mobile form factor. Popular Linux phone options like the PinePhone and the Librem 5 also offer hardware killswitches so you can kill your radios, cameras, and more to protect your privacy.
+
+One reason I love my PinePhone is the fact that I can develop software on the device, and then test it on the same device. While this is kind of a chore thanks to the mobile form factor depending on what applications you are running, the experience is only getting better all the time, and you can always contribute to projects or simply fork them and change them as you wish, if you are so inclined.
+
+### Will People Use Linux Phones?
+
+At this moment, most Linux phones are still not necessarily ready for most consumers. Linux mobile distros are still very much in ongoing development, and will only continue to get better. Are they quite ready to overthrow the Apple/Google duopoly? Probably not, but that is not because of lack of usability on the part of the mobile Linux distributions. It is simply because people are accustomed to these proprietary platforms, and the apps (Snapchat, Facebook, and the like) that they have come to use.
+
+In my opinion, not being able to use this proprietary junk is a feature, not a bug, and if you absolutely need to use your Facebook or whatever else, you can always use your Linux phone's web browser to access those sites.
+
+### What Will You Do?
+
+If you want to get in on a Linux phone of your own, you will be happy to find that there are options available to you. While the Librem 5 is still only coming out in small batches, the PinePhone has now had several iterations released, with the latest being the Manjaro Community Edition. I have the BraveHeart Developer Edition PinePhone, as well as the PostmarketOS Community Edition PinePhone. I hope to have a Librem 5 to test eventually, but I am perfectly happy with my PinePhones to build and test my mobile Linux software.
+
+Take a look at Linux phone devices and operating systems for yourself on our information pages to see if you think this could be something that would be up your alley. If you think it could be right for you, and you're ready to take control of your mobile computing and your privacy back from the Big Tech giants, then you could greatly benefit from choosing a Linux phone.
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust

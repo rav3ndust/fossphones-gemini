@@ -1,0 +1,65 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Operating Systems
+
+If you are just getting started out with Linux phones like the PinePhone, then of course you're going to be looking for operating systems you can test and tinker with to your heart's content.
+
+Remember, not many of these mobile distributions are going to be considered daily-driver ready for most people just yet, but you can still flash it to an SD card and give it a go!
+
+If you want to learn about a certain operating system, just click on it and you'll learn a bit about its background, what it does best, and where you can download it for yourself.
+
+=> gemini://fossphones.com/ubuntu-touch.gmi     Ubuntu Touch 
+
+* A privacy respecting and friendly mobile operating system aiming to achieve convergence and simplicity.
+
+=> gemini://fossphones.com/mobian.gmi           Mobian 
+
+* A familiar distribution that focuses on security, stability, and user freedom as much as possible.
+
+=> gemini://fossphones.com/postmarketOS.gmi     postmarketOS
+
+* A secure and lightweight distribution aiming to expand Linux to older devices in an effort to reduce e-waste.
+
+=> gemini://fossphones.com/alarm.gmi            Arch Linux ARM 
+
+* A well known rolling release distribution that always ensures you're up to date on the software you care about most.
+
+=> gemini://fossphones.com/pureos.gmi           PureOS 
+
+* A pure distribution that seeks to be as secure and private for the user as possible.
+
+=> gemini://fossphones.com/manjaroarm.gmi       Manjaro ARM
+
+* A streamlined rolling release distribution that builds on Arch while maintaining simplicity.
+
+For testing various mobile Linux distros without swapping your SD card, check out the following great project:
+
+=> gemini://fossphones.com/pboot.gmi            p-boot
+
+* An image preloaded with 17 mobile GNU/Linux distributions.
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust

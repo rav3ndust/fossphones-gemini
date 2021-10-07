@@ -1,0 +1,40 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Devices
+
+As of right now, there are only two Linux phones that are really making a mark on the scene, though there are other options in the works, as well. When it comes down to options you can buy right now, you have a couple of options, Pine64's PinePhone and Purism's Librem 5.
+
+They both offer the same benefits in respecting user privacy, running free and open source software and operating systems, and being simple to repair and sport hardware killswitches for the ultimate in mobile privacy protection.
+
+If you are ready to take back your privacy, or if you are a Linux enthusiast, or you just want to find an option away from the Android and iOS duopoly, then a Linux phone might be the best choice you could make. The best choice for you will mostly depend on what you're looking for in the device, and your budget.
+
+Learn more about each of the major Linux phone projects by clicking the link for the one you might be interested in. More devices will be updated as we learn more about them. 
+
+=> gemini://fossphones.com/pinephone.gmi    Learn more about the PinePhone from Pine64.
+=> gemini:/fossphones.com/librem5.gmi       Learn more about the Librem 5 from Purism.
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust

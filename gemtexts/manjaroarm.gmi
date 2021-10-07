@@ -1,0 +1,52 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Manjaro ARM
+
+The wildly popular Manjaro Linux distribution is highly revered for its ease of use and versatility on the desktop, and it is bringing that same reputation to the PinePhone with Manjaro ARM.
+
+The Manjaro team has been serious about getting into the ARM game, with official ports for the Raspberry Pi, Pinebook Pro, and now the PinePhone. Manjaro is based on Arch Linux, so much like Arch Linux ARM, you are given all the benefits of having a consistently up-to-date system.
+
+So far on the PinePhone, the Manjaro team has published alpha images for testing both the Phosh and Plasma Mobile user interfaces.
+
+To make sure you're always up on the newest versions of your favorite packages, just fire up your terminal and type:
+
+```
+sudo pacman -Syu
+```
+
+...and you will be up to date on the newest packages. If you already love Manjaro on your computer, why not give it a shot on your PinePhone, too?
+
+## Download Manjaro ARM For PinePhone
+
+Note that these are alpha images that are still under active development, but if you'd like to test Manjaro PinePhone images, click the link below to reach Manjaro's official download pages.
+
+Just make sure you know which user interface you want, though!
+
+=> https://forum.manjaro.org/t/manjaro-arm-alpha1-with-phosh/151630                     Manjaro ARM Phosh
+=> https://forum.manjaro.org/t/manjaro-arm-alpha5-for-pinephone-testing-branch/136614   Manjaro ARM Plasma
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust

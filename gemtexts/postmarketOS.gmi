@@ -1,0 +1,44 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## postmarketOS
+
+PostmarketOS is a mobile Linux distribution that began as a vision to bring an alternative operating system to older devices in an effort to reduce electronic waste. The PostmarketOS team has now set their sights on the PinePhone, with impressive results.
+
+PostmarketOS is the first mobile Linux distro to support full-disk encryption, and can be used with several different user interfaces, with the most popular options being Phosh and Plasma Mobile.
+
+PostmarketOS is built on top of an Alpine Linux base, and you can create your own image file to burn onto an SD card using the pmbootstrap tool developed by the PostmarketOS team to make your installation as personal and easy as it can be.
+
+PostmarketOS is also the second Linux phone distribution to get its own PinePhone Community Edition, after the Ubports Community Edition was shipped. The PostmarketOS PinePhone is still available for sale, and is due to be shipped by Pine64 in late August or early September.
+
+## Download PostmarketOS For Your Device
+
+PostmarketOS is one of those mobile Linux distributions that has also been ported to Android devices by community members. You can grab PostmarketOS for yourself, either for your PinePhone or for your supported device.
+
+=> http://fossphones.com/postmarketos/              Download postmarketOS for PinePhone
+=> https://wiki.postmarketos.org/wiki/Devices       Supported Devices
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust

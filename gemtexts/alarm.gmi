@@ -1,0 +1,45 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Arch Linux ARM
+
+The king of all the rolling release Linux distributions is now brought to us to the PinePhone by the DanctNIX community. You get everything you love about your Arch Linux desktop setup conveniently in the palm of your hand.
+
+Like many of the other Linux phone distros, Arch Linux ARM for PinePhone comes with the Phosh user interface. The Arch experience on PinePhone is exceptionally smooth. It does, of course, retain the simplicity of Arch when you want to make sure your software is up to date with one simple command (note - In this port, the sudo command does not come preinstalled, so you will need to be root to update/upgrade):
+
+```
+pacman -Syu
+```
+
+...and that's it! Firefox scales very well in this PinePhone port in comparison to other mobile distributions, so you can do desktop browsing with ease, or stream your favorite videos on your PinePhone.
+
+## Download Arch Linux Arm For Your PinePhone
+
+If you have a PinePhone of your own and love Arch Linux, why not give it a spin? You can grab the latest image by clicking the button below from the project's official GitHub repository. Once it is downloaded, just flash it to your SD card and boot it up!
+
+=> https://github.com/dreemurrs-embedded/Pine64-Arch/releases       Download Arch Linux ARM For PinePhone
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust

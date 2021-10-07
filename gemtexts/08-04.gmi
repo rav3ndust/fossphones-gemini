@@ -1,0 +1,143 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Linux Phone News - August 4, 2021
+
+It's been awhile since our latest update (I've had a lot going on IRL - including a move! Sorry for the delays on news updates!). We're back in full swing here at FOSSphones - as well as being all set up in my new office.
+
+I am thinking about doing a monthly Linux phone news roundup instead of weekly, as I will be able to capture all of the main highlights and spend the rest of the time creating content related to some cool things you can do with your Linux phone. I also plan to hit the video series hard this month, because I have some potential video ideas I would like to touch on when it comes to software and other things related to mobile Linux devices.
+
+I look forward to sharing all of the cool new things I have planned for this site with you guys! Thanks for sticking around and continuing to visit us here at FOSSphones.
+
+So, without further ado, let's see what has been going on in the world of Linux phones this month.
+
+
+Linux Mint's Warpinator Comes to F-Droid
+If you use a De-Googled Android device for your FOSS phone of choice, and you like Linux Mint, you are going to love this update. I have been testing this with my own De-Googled Essential PH-1 device (the main Android phone I keep around), and it is fantastic!
+
+I use Linux Mint as my main desktop operating system, and Warpinator has been a very easy solution to use when I need to transfer files from one machine to another over my local network instead of worrying about breaking out my flash drive.
+
+Now, with this unofficial Android port of Warpinator, it is dead simple for anyone with an Android device and a Linux Mint machine to share files between the two. Need to move those pictures over from your phone to your machine? Want to get that work report from your computer to your phone for easy transfer at the office? Warpinator for Android is a great way to do it.
+
+If you have any of the newer versions of Linux Mint installed on your machine, then you should already have Warpinator. Give it a shot and see how you like transferring files wirelessly between your phone and your computer. I might do a video tutorial or write-up on how to use this efficiently, as it has become a huge part of my workflow. I'll be getting accounts set up on video platforms like YouTube and Odysee specifically for FOSSphones so I'm not making FOSSphones content on my personal account. I'll make sure to include a video about Warpinator there.
+
+If you want to try Warpinator for Android for yourself, download it from this link below from F-Droid, the free and open-source app store for Android:
+
+Download Warpinator for Android from F-Droid
+
+
+UBports Plan to Bring VoLTE to Ubuntu Touch
+In a big piece of Linux phone news this month, the folks over at UBports, developers of the Ubuntu Touch operating system, are planning on bringing VoLTE (Voice Over LTE) to Ubuntu Touch. This essentially equates to being able to use your Ubuntu Touch device to make calls over 4G - bringing you better audio quality and less lag while talking on the phone.
+
+While this is a pretty standard feature on most smartphones these days, it has not yet been officially implemented on the Ubuntu Touch platform. With new devices no longer being able to activate without VoLTE capabilities on some carriers (such as Verizon in the USA), this is becoming a must-have feature on every phone.
+
+Thankfully, you are going to be able to get it on your Ubuntu Touch device, as well (if your device has the proper modem firmware and support from your carrier). 2G and 3G networks are beginning to shut down, this feature will soon be a necessity.
+
+Working with a specialist in cellular networks known as sysmocom, our friends at the UBports Foundation now have a plan to bring VoLTE to the mobile operating system by coming up with a free and open-source alternative to the IMS (IP Multimedia Subsystem) proprietary software that handles the routing of VoLTE calls.
+
+Another piece of good news? This could potentially also bring Wi-Fi calling to Ubuntu Touch - a welcome addition to the growing platform. I'll keep my eye out for future developments on this piece of news so you can stay up-to-date on any changes - especially if you run Ubuntu Touch!
+
+You can read more about this exciting prospect, along with some more of the technicals, by checking out this blog post from UBports about the matter.
+
+### The JingPad A1 Gets to Show Off
+
+If you have been following the news in the hardware space recently, you might have heard about the JingPad A1, either here at FOSSphones or one of the several other great websites dedicated to sharing news about Linux on mobile. If you haven't yet heards of it, JingPad is going to be the world's first consumer-ready GNU/Linux tablet. While JingOS (the GNU/Linux based distribution that will be shipping with the tablet) has seen several reviews, not many folks have gotten to play with the hardware just yet.
+
+This changed recently, as the popular YouTube channel TechHut got to check out a pre-release version of the JingPad A1 hardware, running JingOS 0.91. The 17 minute video shows you the hardware itself, a bit of the operating system, and how key functions like the keyboard, camera, and app installations work on the tablet. It is looking very promising, and while I'm not much of a tablet user, I do look forward to testing it out (along with the PineTab when I am finally able to get my hands on one).
+
+JingOS itself is based on Ubuntu, and the tablet is expected to begin shipping out to backers sometime in October.
+
+=> https://en.jingos.com/jingpad-a1/   Learn more about the JingPad A1 and JingOS by checking out the project's official website.
+
+### Sxmo 1.5.0 is Released
+
+I am a big fan of Sxmo, the GNU/Linux phone OS that uses Suckless utilities and is built on top of PostmarketOS. If you haven't yet given it a shot and like to use Suckless tools on your GNU/Linux desktop, you should definitely consider giving Sxmo a try.
+
+The latest release of the mobile distribution brings some cool new features to the mobile Suckless experience. Here are a few of the changes you can expect to find:
+
+* A brand new default wallpaper
+
+* A better contact menu
+
+* Improvements in phone calling
+
+* The ability to run Sxmo menus in an SSH session
+
+* Updates to the virtual keyboard
+
+* The ability to configure a personal Wi-Fi hotspot from the Networking menu
+
+* File selection dialogs for GTK3 should now fit the display
+
+...and more! If you want to the full list of new features and changes in this update, consider checking out the official announcement from the Sxmo team.
+
+If you want to give Sxmo a shot on your own device, check out the project's official page so you can learn how to download and install it for yourself. You'll quickly see why I think it is one of the most unique and fun to use of the current batch of mobile GNU/Linux distributions.
+
+=> https://sr.ht/~mil/Sxmo/     Grab sxmo!
+
+### Meet Droidian
+Mobian is still hands-down my favorite of all of the current GNU/Linux mobile distributions (most likely because I have always been a big fan of Debian and its many derivatives) - and now a new project is emerging to help bring Mobian to a wider selection of devices.
+
+This project, known as Droidian, aims to help bring the Mobian project to Android phones.
+
+The Droidian team plans to do this by utilizing such technologies as Halium and libhybris. Droidian is still a very new project, but I thought I would mention it here because it shows a good deal of promise in helping bring mobile Debian to even more devices.
+
+If you want to learn more about Droidian, be sure to visit their site in the link above, or check out their blog for updates on development, which I am linking below for your convenience.
+
+=> https://droidian.org/blog/   Check out the Droidian blog!
+
+###  Plasma Mobile 21.07 is Released
+KDE Plasma Mobile is one of the three popular "desktop environments" for mobile GNU/Linux devices. If you have tried various operating systems on your PinePhone or other mobile Linux device, chances are you have probably played with Plasma Mobile at least once.
+
+Just like its main competition, phosh, KDE's Plasma Mobile just keeps getting better and better. With its new 21.07 release, the mobile environment gets some nifty new updates.
+
+Here is a quick summary of some of the changes you can find in this new release of Plasma Mobile:
+
+* Shell updates: The shell is much more responsive now, thanks to work done by developer Marco Martin and his improvements on the top panel's performance.
+
+* Dialer updates: Issues with dialing international numbers have been fixed, and there was a fix regarding the dialer displaying the wrong contact name upon recieving calls. Finally, you can also now properly dial numbers with a hardware keyboard, if one is attached.
+
+* Spacebar updates: Spacebar is Plasma Mobile's default SMS application, and it gets some UI facelifts in this update.
+
+* KWeather updates: The Plasma Mobile KWeather plasmoid also saw some improvements in this release. These include the ability to have separate locations for your weather and some new visual flair.
+
+* KClock updates: The default Clock application also saw some improvements in this release, including ensuring alarms work as intended when the device is in suspend, as well as some dialog changes to make a more consistent look with other native dialogs in the system.
+
+* KRecorder updates: Like KClock, KRecorder got some visual updates to maintain consistency across the system.
+
+* Qrca updates: Qrca is Plasma Mobile's native QR code scanner, and it comes with some updates of its own in this release. You can now select from different cameras when scanning codes, as well as gives you the ability to import barcodes into your KDE Itinerary. The UI also saw some improvements.
+
+As you can see, there are a lot of nice new updates in Plasma Mobile with this release. If you want to learn more about the 21.07 release of KDE's Plasma Mobile, be sure to stop by the link below to read a detailed list of updates.
+
+=> https://www.plasma-mobile.org/2021/07/20/plasma-mobile-gear-21-07/   Click here to see the full list of updates from the Plasma Mobile website.
+
+## = = = = = = = = = = 
+
+That is about it for this roundup of the latest in mobile GNU/Linux news. Now that everything is finally good to go with my office, I now have a dedicated space to do all of my FOSSphones-related work as well as my own personal development work, so expect to see a lot of new content coming forth in the next few weeks. I also hope to finally have our video channels set up and pumping out content before long. I have some plans for video and text content that I think should hopefully be very valuable in the Linux phone community, especially for those who are thinking about picking up a mobile Linux device for the first time.
+
+As always, thanks for reading, and we will see you in the next update!
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust

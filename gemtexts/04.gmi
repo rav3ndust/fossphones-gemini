@@ -1,0 +1,49 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## New PinePhone Manjaro Community Edition Announced
+
+As shipping for the Pinephone PostmarketOS Community Edition kicks off with many eager customers receiving their DHL shipment notices, the good folks at Pine64 have already announced the next Pinephone that will be available for pre-order starting sometime in September:
+
+The PinePhone Manjaro Community Edition.
+
+Much like the new PostmarketOS CE PinePhone, the Manjaro Community Edition will also have two different purchasing options for those wanting a PinePhone. You can choose from:
+
+* The $149 option, which comes with 2GB of RAM and a 16GB eMMC.
+
+* The $199 Convergence Package, which comes with slightly upgraded 3GB of RAM, a 32GB eMMC, and a USB-C dock for displaying video out from your PinePhone to an external monitor.
+
+* These are the same options that were available for the PostmarketOS CE device, and they proved hugely popular.
+
+With this exciting announcement from Pine64 and the great folks who continue developing Manjaro Linux for ARM devices, you now have yet another chance to grab yourself a brand new PinePhone next month if you missed out on the last round.
+
+Remember, you will also be supporting the Manjaro development team with your purchase, as Pine64 donates $10 for every PinePhone sold to the partner project whose operating system ships installed on the device.
+
+As always, you will also be free to try other operating systems easily without affecting your Manjaro installation by flashing an image of another operating system to an SD card. This is a simple process, and one we have covered before here on FOSSphones.
+
+For more information about this exciting news, you can check out Manjaro's announcement on their forums, as well as follow along with Manjaro Pinephone development on the Manjaro For PinePhone section of the Pine64 PinePhone Software forum.
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust

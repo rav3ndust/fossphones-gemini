@@ -1,0 +1,66 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Linux Phone News - May 17, 2021
+
+A few interesting things have been going on in the world of Linux phones lately, and it's time to get caught up!
+
+Let's see what a few of the big headlines have been this week...
+
+### A PinePhone keyboard is around the corner!
+
+PinePhone has seen a huge last few months with the end of the Community Editions and the beginning of the rolling production of the PinePhone Beta Edition, which you can now order year-round in the Pine64 store. One of the biggest pieces of hardware news coming this month from the monthly Pine64 community update is the upcoming PinePhone keyboard, which will allow you to turn your PinePhone into a pocket laptop off sorts.
+
+I know this device will come in handy for me - who doesn't like the idea of writing shell scripts and doing tasks in their terminal with a physical keyboard on their PinePhone? I'm one of the few people I know who enjoyed physical keyboards on my mobile devices back in the day - so I am definitely in the target audience for this one. I plan to review it here on the FOSSphones site as soon as I am able to pick up a PinePhone keyboard of my own.
+
+### KDE + LMMS audio contest!
+
+The good folks over at the massive open-source community, KDE, which is famous for free software projects such as the Plasma Desktop, Plasma Mobile, the Kate text editor, and much more, are hosting an audio contest with the free software DAW (Digital Audio Workstation) known as LMMS.
+
+The official announcement can be read at the KDE community website.
+
+In essence, the contest is all about:
+
+* Items needed include ringtone sounds, notification sounds, alarm sounds, and system sounds including keypress events.
+
+* Ensuring the audio produced is done in LMMS.
+
+* Contest winners will receive physical KDE swag and their audio featured in Plasma mobile.
+
+The contest ends on June 13 at 11:59 p.m. (UTC).
+
+I'm tempted to enter this one myself as I am familiar with LMMS and sound production, but I might not have the time to dedicate to it. I am excited to see what cool sounds come out of it in future iterations of Plasma Mobile, however!
+
+
+### Ubuntu Touch sees Ubports' 100th Q+A
+
+Ubports, the developers behind the community-driven and wildly successful Ubuntu Touch project, recently hosted their 100th Q+A after four years of the broadcast. On it, they touched on some of the progress of new updates to the operating system, including the release of OTA-17 for supported devices. It is important to note that for PinePhone and PineTab owners using Ubuntu Touch, you aren't going to see an update labeled "OTA-17" in your updates, as these devices are maintained separately from other devices.
+
+### PinePhone camera app MegaPixels gets an upgrade.
+
+The PinePhone camera app, MegaPixels, has come a long way, and is seeing some nice progress on the PinePhone. Now, in its 1.0 release, MegaPixels has been updated from GTK3 to GTK4, giving the app the ability to use GPU acceleration for image preview. It also comes with some nice updates to the user interface.
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust

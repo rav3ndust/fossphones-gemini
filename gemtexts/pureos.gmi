@@ -1,0 +1,41 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## PureOS
+
+The Debian-based PureOS is the Linux distribution that is developed and actively maintained by Purism, and is the prominent distro of choice for all of their products, powering the Librem line of Purism laptops, as well as, of course, Purism's own Librem 5 Linux phone.
+
+In order to make PureOS scale down to something comfortably usable on a handheld device, Purism developed the Phosh shell, which is now used not only in PureOS, but in several other Linux phone operating systems as well, such as Mobian, PostmarketOS, Arch Linux ARM, and more. It exists alongside KDE's Plasma Mobile as the mobile UI of choice for most mobile distributions.
+
+Of course, Linux being Linux, PureOS was never only going to run on the Librem 5. Thanks to the work of mozzwald, who originally ported PureOS to the PinePhone, and clover, who currently maintains it, PinePhone owners can enjoy PureOS on their device as well.
+
+If you're a PinePhone user, you can download a copy of the above mentioned PureOS PinePhone port, extract the image onto your local machine, flash it onto an SD card, and slide it into your device. Set up a few things on boot, and you will be ready to start using it.
+
+### PureOS PinePhone Port:
+
+=> https://pureos.ironrobin.net/droppy/#/Images     Download PureOS For PinePhone
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust

@@ -1,0 +1,43 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## About Us 
+
+I go by the name rav3ndust, and I have been an avid Linux enthusiast and user for quite awhile now. I have always loved being able to have full control over my computers without worrying about my data being sent to some server overseen by corporations. I could use free and open source software that I could modify and hack to my heart's content if I wanted.
+
+This is functionality that is just missing in modern Android and iOS phones. Your devices don't feel like that really belong to you, they feel you just get to use them for awhile. Sadly, most phones are a gateway for spying on our lives to build up an advertising profile and follow our browsing habits to make a little money off of us.
+
+What if we could take back our privacy with Linux phones? As mobile Linux devices have been coming over the horizon, much like the PinePhone and the Librem 5, I had started to consider a news hub of sorts for all things Linux phone related. Information about operating systems, devices, and so much more!
+
+That is what FOSSphones is all about. Helping everyone who is interested learn all they can about a privacy-respecting mobile phone, and a Linux phone is going to be your best option for that.
+
+Here are a few more resources of mine if you're interested in my free software projects or some other stuff I run.
+
+=> https://rav3ndust.xyz            My personal website.
+=> https://github.com/rav3ndust     My Github, where you can see and contribute to some of my own free software projects.
+=> https://neighborli.xyz           Neighborli, my federated social network built on Pleroma.
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust
