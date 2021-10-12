@@ -2,6 +2,7 @@
 
 ### your number one source for linux phone news
 
+=> gemini://fossphones.com/community.gmi  Community
 => gemini://fossphones.com/news.gmi       News
 => gemini://fossphones.com/os.gmi         Operating Systems
 => gemini://fossphones.com/software.gmi   Software
