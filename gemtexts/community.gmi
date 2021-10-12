@@ -1,0 +1,64 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/community.gmi  Community
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Community
+
+I had originally set up a Discourse instance for FOSSphones not long ago, but then I realized I had an even better option already available.
+
+Instead of trying to build up a forum, why not just set up some simple communication channels using software that folks in the FOSS space are already using?
+
+Naturally, Matrix and xmpp were the first things to jump to mind. I now have an Element Space set up on Matrix.
+
+Anyone is free to come join in and talk about the latest in Linux Phones, projects, software, and anything else we feel like discussing.
+
+We already have a few people hanging out in the Matrix room, stop by and say hi sometime if you would like!
+
+Here are the community channels I am getting together for FOSSphones.
+
+### FOSSphones on Matrix
+
+Feel free to join us in the FOSSphones Matrix Space. There are already a few of us chilling in here every now and again. 
+
+You can click the link below to join the FOSSphones Matrix Space anytime you feel like talking about the latest in Linux Phones: 
+
+=> https://matrix.to/#/#fossphones:matrix.org       Join the FOSSphones Matrix Space
+
+### FOSSphones on XMPP
+
+I have been thinking about also making an XMPP server for FOSSphones. I don't have this setup yet, but I will post it in here as soon as I do it...
+
+...if/when I do, of course :) 
+
+### FOSSphones on IRC
+
+Naturally, we have to be cool and have an IRC channel up and running! I'm going to be working on this at some point this week when I have some free time.
+
+With a FOSSphones IRC channel, the goal would be for someone to be able to pop in and get help anytime they have a question or trouble with their Linux/DeGoogled phones.
+
+As soon as I have the channel up and running, I will post updates here.
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust
