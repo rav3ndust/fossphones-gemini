@@ -1,0 +1,152 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/community.gmi  Community
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Linux Phone News - December 28, 2021 
+
+> Join us now and share the software - you'll be free, hackers, you'll be free..." - Richard Stallman
+
+Welcome to another of our monthly news roundups here at FOSSphones. This one is special - it is the last news roundup of the year before we begin looking into what is coming next for Linux phones in 2022! It is exciting to contemplate not only where we have been this year in the world of Linux on mobile, but also where we are going to continue to go.
+
+There have been some exciting updates to jump into this month, spearheaded by the monthly blog post from Pine64 highlighting some new product updates and other stuff. Let's dive right in and see what's new before the New Year arrives!
+
+### PinePhone Pro Makes its Way to Developers 
+
+One of the most exciting developments of this year was the announcement of the new PinePhone Pro, and devs who registered back when the announcement was made have been receiving their units. We have been seeing some confirmations from Twitter happy announcements that folks have begun to get their units into their hands.
+
+Pine64 notes in their December blog post that the Explorer Edition should be making its way out in the next few weeks. With these new devices in the hands of developers, we should start seeing some of our favorite distros and pieces of software becoming ready for the PinePhone Pro. I know I can't wait to get my own device for testing and doing some dev work of my own on.
+
+In case you missed it, make sure you check out our deep dive on the PinePhone Pro, and check out the official PinePhone Pro page from Pine64 to learn more about the device.
+
+=> https://fossphones.com/pinephone-pro-announcement.html   Our Deep Dive on the PinePhone Pro
+=> https://www.pine64.org/pinephonepro/ Pine64's PinePhone Pro Page 
+
+Speaking of PinePhone Pro, some more exciting updates come from this month's blog post from Pine64. Some of these items are now functional when it comes to trying to get the PinePhone Pro at software parity with the original PinePhone:
+
+* USB for data and video are working.
+
+* Sound output is functional.
+
+* Modem (including voice calls) is working.
+
+As noted in the blog, many thanks go out to A-wai from the Mobian project and Megi for their contributions in making these early advancements in the PinePhone Pro department. These developments early on are going to make the device that much better and more usable as development surrounding them continues on.
+
+Software for the PinePhone Pro is beginning to expand, as well - with images of postmarketOS, Mobian, Manjaro, Arch (DanctNIX), and NixOS being ready for the device. As development goes on and more folks get their hands on the devices, this list is only going to continue to expand, just like it did (and continues to do) for the original PinePhone.
+
+### PinePhone Keyboard Almost Ready! 
+
+This is one of the things I am most excited for, as I really miss having a physical keyboard on my mobile phone.
+
+As noted in the blog update, Pine64 is planning on getting the keyboard attachment for PinePhone in stock on the Pine Store hopefully by the beginning of January. Prototyping has been underway for the last six months, and there are many units being made, so there should be no shortages for those who are interested in picking some up.
+
+To boot, Arch (DanctNIX), postmarketOS, Manjaro, and Megi's multiboot OS images are all updated with support for the keyboard, with more surely to come. This means that no matter what your preferred mobile distro is, it should be easily supported by the PinePhone's keyboard whenever the hardware is ready, so you will be able to plug it right in and get to typing away.
+
+I am following news of the keyboard updates closely, so I will post back here on FOSSphones with information and pricing as soon as I know they have been posted for sale on the Pine Store.
+
+### Popcorn Computer's New "Pocket PC" Looks Promising
+
+A new post from Martijn Braam made me aware of the new "Pocket PC" from Pocket Computer, and it looks really interesting.
+
+The device was originally announced in the fall of 2019, comes with a keyboard built right in, and wouldn't you know it - it runs Linux right out of the box, being based on the Allwinner A64 platform.
+
+Here are some of the hardware specifications if you are feeling curious about the device:
+
+* SoC - Allwinner A64
+
+* CPU - 4x Cortex-a53 @ 1.2GhZ
+
+* RAM - 2GB DDR3 RAM
+
+* Storage - 32GB eMMC, SD slot
+
+* Display - 1080x1920 IPS LCD @ 4.95"
+
+* Battery - 3200mAh removable battery
+
+* Wireless - 2.4GhZ BG Wifi, Bluetooth 4.0
+
+* Connections Ports - 4x USB-C, 1x mini-HDMI output
+
+* Keyboard - 63 key physical
+
+Spec-by-spec, it sounds a lot like our friend, the PinePhone, but with its own uniquye set of integrations. For example, the included 4 USB-C ports are a welcome addition, along with the mini-HDMI output being right there on the device. To make things better, it comes with the keyboard built right in, so if you like functionality over form and aesthetics, this device might be right up your alley.
+
+For software shipped with the device, the site makes this claim:
+
+Software
+
+* Debian 10 with mainline Linux
+
+* Compatible with Gadget OS and Buildroot
+
+* Open-source keyboard and LED
+
+* Controller firmware
+
+All in all, this looks like it could become a nice device to add to the lineup of mobile FOSS devices coming out. The device can be pre-ordered at the link below.
+
+=> https://pocket.popcorncomputer.com/#products Pre-Order Your Own Pocket PC
+=> https://tuxphones.com/popcorn-computer-pocket-pc-linux-pda-first-look/   Read Martijn's Thoughts on the Pocket PC
+
+### Maui Shell = Convergence For All 
+
+Get ready for a new desktop environment to enter the scene. The Maui Project has been hard at work at bringing their own set of FOSS apps to allow a complete and convergent computing experience. If this sounds like Greek to you, this basically is just a simple way of saying that we are another step closer to being able to use the same apps and environments on every device you own - be it your phone, tablet, or computer.
+
+In an introduction to the Maui Shell, we can see some of the technicals behind how the project works, images of what it is currently looking like, and what its goals are. It aims to be a convergent shell for all computing devices, and is composed of Cask, which is the shell container and templates for elements, including panels, cards, popups, and more, as well as Zpace, the composer - which decides the layout and placement for windows in the Cask container.
+
+Maui Shell can be previewed in the next version of Nitrux as an alternative graphical session for the user to log into. The user will be able to log in and test Maui Shell in the same way they log into KDE, GNOME, or whatever their preferred desktop environment is.
+
+It looks like it is going to be an exciting development to keep tabs on, and I will certainly be playing with the preview as soon as it is available. If you're curious about the development pace of this project, you can check out the project's source repository below.
+
+=> https://github.com/Nitrux/maui-shell Check out Maui Shell on GitHub
+
+### Squeekboard Sees its 1.15.0 Release 
+
+The software keyboard that ships with Phosh, Squeekboard, just saw a big new release. In its 1.15.0 release, the keyboard now has a few new goodies under its belt, including:
+
+* New layouts for various languages, including a new layout for PIN entries.
+
+* New integration into GNOME translations.
+
+* Debug mode that starts the GTK inspector.
+
+* Better documentation and error messaging when the keyboard doesn't start.
+
+* Various bug fixes, including unblurred icons, not showing on lock screen for no reason, theme changes without restarting, and more.
+
+If you want to explore some of the new changes coming to Squeekboard before they hit your device, you can check out everything at the changelog below. 
+
+=> https://gitlab.gnome.org/World/Phosh/squeekboard/-/merge_requests/513    Squeekboard Source Repository
+
+## = = = = = = = = = =
+
+Those are some of the biggest updates from this roundup. Starting in 2022, I am going to be looking at another way of doing things on FOSSphones - looking into how we can get more news out there quickly. I am working on establishing us a presence on the Fediverse, through Neighborli, my own instance of Pleroma. We have also welcomed a few new members into our FOSSphones Community, which you can learn more about by clicking on our "Community" tab at the icon in the navigation bar up top.
+
+Thanks for checking out this newest roundup of news in the world of Linux phones. I look forward to seeing what 2022 brings us in this exciting space in free software on mobile devices, and I hope everyone reading this has a great rest of their holidays, and a wonderful New Year. See you all in 2022!
+
+> It's been a great 2021 - happy New Year to everyone in the Free Software community.
+
+# = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust
