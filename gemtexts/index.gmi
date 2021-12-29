@@ -12,13 +12,11 @@
 
 ## Welcome to FOSSphones!
 
-> Linux Phone News Update - October 4, 2021 - Available Now in the News link.
+> Linux Phone News Update - December 28, 2021 - Available Now in the News link.
 
 Thank you for visiting FOSSphones. We're glad you stopped by!
 
 This is our newest home on Gemini. It's cool to now be able to bring the news about Linux phones to the Gemini protocol. 
-
-Thank you for visiting FOSSphones. We're glad you stopped by!
 
 As promised, our FOSSphones Community is on its way to being up and running.
 
