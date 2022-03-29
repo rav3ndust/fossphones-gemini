@@ -2,7 +2,6 @@
 
 ### your number one source for linux phone news
 
-=> gemini://fossphones.com/community.gmi  Community
 => gemini://fossphones.com/news.gmi       News
 => gemini://fossphones.com/os.gmi         Operating Systems
 => gemini://fossphones.com/software.gmi   Software
@@ -27,7 +26,9 @@ Here are some of the latest news and notes from around the world of Linux phones
 => gemini://fossphones.com/08-04.gmi  Linux Phone News - August 4, 2021
 => gemini://fossphones.com/08-31.gmi  Linux Phone News - August 31, 2021
 => gemini://fossphones.com/10-04.gmi  Linux Phone News - October 4, 2021
-=> gemini://fossphones.com/1228-news.gmi    Linux Phone News - December 28, 2021
+=> gemini://fossphones.com/1228-news.gmi Linux Phone News - December 28, 2021 
+=> gemini://fossphones.com/feb-1-22.gmi Linux Phone News - February 1, 2022 
+=> gemini://fossphones.com/03-29-22.gmi Linux Phone News - March 29, 2022
 
 # = = = = = = = = = =
 
