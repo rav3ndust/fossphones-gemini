@@ -1,0 +1,144 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/community.gmi  Community
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Linux Phone News - February 1, 2022
+
+Last month was super busy and I wasn't able to make the news roundup for January, so this one is going to be a bit longer. Due to some happy shifts in life, however, I now have much more time on my hands, and FOSSphones is finally going to be my number one priority going forward, so expect us to return to bi-weekly news roundups both here and of course, on our Gemini site.
+
+I hope everyone reading this had a wonderful New Year, and with that being said, time to jump into our first Linux Phone news roundup of 2022.
+
+### New Mobile Linux Distro Releases 
+
+2022 is barely two months in, and we're already seeing some exciting releases from some of our favorite mobile Linux distro projects.
+
+Here is a short and quick list of some of the newest GNU/Linux mobile distro releases that you can download and try out for yourself:
+
+* New release of Arch Linux ARM by Danct12.
+
+* New Manjaro ARM images for both Phosh (Beta 21 release) and Plasma Mobile (Beta 10 release).
+
+* Nemo Mobile also saw a new release.
+
+I expect to be downloading and testing each of these distros out and reporting back to the community, which brings me to my next piece of news.
+
+### FOSSphones is Coming to YouTube and Odysee, (Possibly) PeerTube
+
+I have been thinking about getting back into doing videos for awhile now, and now that I am going to have a lot more time on my hands, I plan to do just that. Over this week, I plan to set up new YouTube and Odysee channels for FOSSphones.
+
+I am also entertaining the notion of setting up a Linux Phone PeerTube instance. I have some ideas for this if I end up doing it, and will update you with the details when and if this happens.
+
+We are going to be taking a look at some of the latest distro releases and talking about new features, investigating and testing out cool apps for your GNU/Linux mobile devices, and more.
+
+I also plan to bring back FOSScast this year, which was a podcast idea I began with last year that has one episode up on my personal YouTube channel. I invite anyone in the mobile GNU/Linux community who would like to participate in the podcast (I am thinking about doing interviews and guest spots) to feel free to reach out through email (which can be found on our contact page) or on FOSSphone's socials on Neighborli or Twitter.
+
+### Pine64 Community Poll Wraps Up 
+
+Through the month of January, our friends at Pine64 ran a community poll where everyone who has a mobile Linux device was invited to take part (which I happily did). The results are in, and give us a little bit of insight into how people are using their PinePhones.
+
+Here is a short summary of some of the results.
+
+__Locales__: 
+
+A third of those responding to the poll were from the USA. European PinePhone users were highest in the UK, Germany, and France. Canada and Australia also seem to have a decent amount of respondents, with the poll noting that some respondents even had PinePhones in a country where the device isn't shipped by Pine64 - Russia.
+
+__Familiarity With Linux__: 
+
+In a question asking people to rate their literacy with working within a Linux environment, the answers didn't surprise me too much.
+
+A huge majority of the respondents claimed to be Linux and FOSS enthusiasts, with a good majority being programmers (I fell in this camp). A small percentage claimed to be interested in smartphones but have no current knowledge of Linux, while a slightly larger percentage claimed a limited knowledge of Linux, but don't want to use iOS or Android devices - most likely with the latter two platforms' privacy issues in mind.
+
+It's an interesting look into our community and why people enjoy using their PinePhones.
+
+__Experience With Mobile Linux Devices__: 
+
+The PinePhone is one of the first mobile devices built with running mainline GNU/Linux in mind, and its affordability and general availability has allowed a good amount of people to get their feet wet in the world of mobile Linux.
+
+With that in mind, 77.5% of people responding said their PinePhone was their first Linux-capable mobile device, while 22.5% claimed otherwise - meaning they probably had a device (such as a Nexus 5) running Ubuntu Touch, a device like the Nokia n900 (good memories!), or another device.
+
+__PinePhone Usage Stastics__: 
+
+I am happy to say that my PinePhone PostmarketOS CE is a big part of my life since I got it back in 2020, and I use it daily. My PinePhone Braveheart is used for development purposes (I'm working on some software for mobile GNU/Linux that is still early stage, not quite ready to share, but I am excited to share it when it is more "ready"). I have a de-Googled Android device running LineageOS as well, but it gets used less and less these days as the mobile distros continue to mature.
+
+I am also happy to say that I am not the only one who falls into this camp, as a fourth of everyone who responded to the Pine64 poll claimed to use their PinePhone as a daily-driver device. A quarter of those answering the poll said that their PinePhone is used as a secondary device, and a third said that they use their PinePhones occasionally.
+
+__Distro Usage__: 
+
+On the mobile distro side, this is what the community poll had to say:
+
+* 31.2 percent of respondents use Manjaro Linux ARM.
+
+* 22.2 percent of respondents use Mobian (I fall in this camp).
+
+* 20 percent of respondents use postmarketOS.
+
+* 12.7 percent of respondents use DanctNIX Arch Linux ARM.
+
+* 7.6 percent of respondents use Ubuntu Touch.
+
+* A smaller chunk of respondents use Fedora (1.5 percent), and NixOS(1.4 percent).
+
+On the UI side of things, we have these results: 
+
+* 31.2 percent prefer Phosh (I fall in this camp).
+
+* 24 percent of respondents don't have a preference for UI.
+
+* 18.8 percent prefer KDE's Plasma Mobile.
+
+* 9.7 percent prefer the Lomiri UI found on Ubuntu Touch.
+
+* 5.1 percent use SXMO, and 4.5 percent use SWMO.
+
+* A smaller 2.9 percent prefer Lipstick + Silica, while 1.7 percent said "other."
+
+There were other questions posed in the poll, as well, mostly related to device add-ons and OS daily driving. You can read an extended, deeper dive into the poll directly on Pine64's site at the link below: 
+
+=> https://www.pine64.org/2022/01/31/pinephone-community-poll-results/ Pine64 Community Poll 
+
+### Phosh 0.15.0 Drops
+
+A new Phosh release (0.15.0) is out, and brings some nice new features with it for you to take advantage of. These include:
+
+* Notification frames that you can swipe away.
+
+* Quick settings for your VPN of choice (including authentication and status icon).
+
+* Arbitrary password support.
+
+* Some settings hidden if proper hardware is not present.
+
+You can read the full changelog from the GNOME Gitlab at the link below. 
+
+=> https://gitlab.gnome.org/World/Phosh/phosh/-/releases#v0.15.0 GNOME Gitlab
+
+## = = = = = = = = = =
+
+That's about it for this roundup - I am happy to be able to get back into working on FOSSphones on a more regular basis, as life is now going to allow me. Expect a lot more from FOSSphones on this site, on our Gemini capsule, on our social media channels, and on our future video channels where we will be getting content up and running for you guys.
+
+2022 is going to be the best year yet when it comes to GNU/Linux on mobile, and I can't wait to see where everything goes. Until next time!
+
+## = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust
