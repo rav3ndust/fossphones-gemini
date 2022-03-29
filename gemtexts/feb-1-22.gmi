@@ -46,11 +46,11 @@ Through the month of January, our friends at Pine64 ran a community poll where e
 
 Here is a short summary of some of the results.
 
-__Locales__: 
+Locales: 
 
 A third of those responding to the poll were from the USA. European PinePhone users were highest in the UK, Germany, and France. Canada and Australia also seem to have a decent amount of respondents, with the poll noting that some respondents even had PinePhones in a country where the device isn't shipped by Pine64 - Russia.
 
-__Familiarity With Linux__: 
+Familiarity With Linux: 
 
 In a question asking people to rate their literacy with working within a Linux environment, the answers didn't surprise me too much.
 
@@ -58,19 +58,19 @@ A huge majority of the respondents claimed to be Linux and FOSS enthusiasts, wit
 
 It's an interesting look into our community and why people enjoy using their PinePhones.
 
-__Experience With Mobile Linux Devices__: 
+Experience With Mobile Linux Devices: 
 
 The PinePhone is one of the first mobile devices built with running mainline GNU/Linux in mind, and its affordability and general availability has allowed a good amount of people to get their feet wet in the world of mobile Linux.
 
 With that in mind, 77.5% of people responding said their PinePhone was their first Linux-capable mobile device, while 22.5% claimed otherwise - meaning they probably had a device (such as a Nexus 5) running Ubuntu Touch, a device like the Nokia n900 (good memories!), or another device.
 
-__PinePhone Usage Stastics__: 
+PinePhone Usage Stastics: 
 
 I am happy to say that my PinePhone PostmarketOS CE is a big part of my life since I got it back in 2020, and I use it daily. My PinePhone Braveheart is used for development purposes (I'm working on some software for mobile GNU/Linux that is still early stage, not quite ready to share, but I am excited to share it when it is more "ready"). I have a de-Googled Android device running LineageOS as well, but it gets used less and less these days as the mobile distros continue to mature.
 
 I am also happy to say that I am not the only one who falls into this camp, as a fourth of everyone who responded to the Pine64 poll claimed to use their PinePhone as a daily-driver device. A quarter of those answering the poll said that their PinePhone is used as a secondary device, and a third said that they use their PinePhones occasionally.
 
-__Distro Usage__: 
+Distro Usage: 
 
 On the mobile distro side, this is what the community poll had to say:
 

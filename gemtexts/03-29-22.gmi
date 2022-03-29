@@ -22,7 +22,7 @@ One of my favorite accessories that I wear all the time is my PineTime, the affo
 
 There are a few updates regarding PineTime software in the March blog update from Pine64, so I thought it would be prudent to share some of the main points here.
 
-__Here are some of the latest updates__: 
+Here are some of the latest updates: 
 
 * Work on the MCUBoot bootloader has been ongoing. If you are unsure of what this is, it is the part of the code that runs when the watch is first booting up. It makes sure your watch is able to revert back to previous, working states if something goes wrong, and making sure it is built in a safe manner is very important so that one doesn't end up bricking their device. You can read more about this exciting update in the PineTime section of the Pine64 update, which will be linked below.
 
