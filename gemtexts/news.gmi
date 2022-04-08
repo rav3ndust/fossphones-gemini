@@ -18,17 +18,17 @@ Here are some of the latest news and notes from around the world of Linux phones
 => gemini://fossphones.com/02.gmi     How to Change Operating Systems on Your PinePhone
 => gemini://fossphones.com/03.gmi     postmarketOS CE PinePhones to Begin Shipping
 => gemini://fossphones.com/04.gmi     New PinePhone Manjaro Community Edition Announced
-=> gemini://fossphones.com/05.gmi     Linux Phones News Update - September 2020 
+=> gemini://fossphones.com/05.gmi     2020-09-16 Linux Phones News Update - September 2020
 => gemini://fossphones.com/06.gmi     Why Are Linux Phones So Important? 
 => gemini://fossphones.com/pinetime-giveaway.gmi    FOSSphones PineTime Giveaway Announcement
-=> gemini://fossphones.com/05-17.gmi  Linux Phone News - May 17, 2021
-=> gemini://fossphones.com/06-08.gmi  Linux Phone News - June 8, 2021
-=> gemini://fossphones.com/08-04.gmi  Linux Phone News - August 4, 2021
-=> gemini://fossphones.com/08-31.gmi  Linux Phone News - August 31, 2021
-=> gemini://fossphones.com/10-04.gmi  Linux Phone News - October 4, 2021
-=> gemini://fossphones.com/1228-news.gmi Linux Phone News - December 28, 2021 
-=> gemini://fossphones.com/feb-1-22.gmi Linux Phone News - February 1, 2022 
-=> gemini://fossphones.com/03-29-22.gmi Linux Phone News - March 29, 2022
+=> gemini://fossphones.com/05-17.gmi  2021-05-17 Linux Phone News - May 17, 2021
+=> gemini://fossphones.com/06-08.gmi  2021-06-08 Linux Phone News - June 8, 2021
+=> gemini://fossphones.com/08-04.gmi  2021-08-04 Linux Phone News - August 4, 2021
+=> gemini://fossphones.com/08-31.gmi  2021-08-31 Linux Phone News - August 31, 2021
+=> gemini://fossphones.com/10-04.gmi  2021-10-04 Linux Phone News - October 4, 2021
+=> gemini://fossphones.com/1228-news.gmi 2021-12-28 Linux Phone News - December 28, 2021
+=> gemini://fossphones.com/feb-1-22.gmi 2022-02-01 Linux Phone News - February 1, 2022
+=> gemini://fossphones.com/03-29-22.gmi 2022-03-29 Linux Phone News - March 29, 2022
 
 # = = = = = = = = = =
 
