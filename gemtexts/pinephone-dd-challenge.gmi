@@ -1,0 +1,48 @@
+
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/community.gmi  Community
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## PinePhone Daily Driver Challenge- Away We Go
+
+The time has finally come. I think it is about time for me to start daily-driving my PinePhone like I have been planning for quite awhile. It has been a minute since I've been able to do anything update-wise with FOSSphones, as I have been working on doing a ton of coding with my company on some projects (which are still under wraps, but I can't wait to share them when the time comes!).
+
+### What are my plans? 
+
+I am about to be finally launching the PeerTube instance for FOSSphones that I have been thinking about doing for so long now. I have a domain, and I am about to be building the instance out and getting some stuff set up on it. When this is done, I will invite everyone who would like to post on the instance to be able to do that, if they wish.
+With all of this in mind, I am going to be doing my PinePhone Daily Driver Challenge that I have also been talking about doing for ages, while holding onto my LineageOS device as my "work" phone in case I need it (which I will, for a few pieces of work-critical software).
+
+A lot has been going on around the world of Linux on mobile since the last time I was able to post an update, and I have a big update in the works that is going to be coming out before the end of this week.
+
+I have been streaming on Twitch again a lot more this year, and plan on doing a good deal more of that as well. The reason I mention this is because I would like to do a few FOSS-related streams (in the vein of the old "FOSScast" video I did a year or so ago, but better). I think this could be a fun way to bring the community into what FOSSphones is up to and continuing to do our part to grow our Linux Phone community.
+
+I plan to post weekly updates about my PinePhone Daily Driver Challenge both on here and on the @FOSSphones account on neighborli, my fediverse (Pleroma) instance.
+
+=> https://neighborli.xyz                 neighborli
+
+> Stay tuned, things are finally about to be going around here again! 
+
+## = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust
