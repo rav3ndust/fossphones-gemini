@@ -29,6 +29,8 @@ Here are some of the latest news and notes from around the world of Linux phones
 => gemini://fossphones.com/1228-news.gmi 2021-12-28 Linux Phone News - December 28, 2021
 => gemini://fossphones.com/feb-1-22.gmi 2022-02-01 Linux Phone News - February 1, 2022
 => gemini://fossphones.com/03-29-22.gmi 2022-03-29 Linux Phone News - March 29, 2022
+=> gemini://fossphones.com/pinephone-dd-challenge.gmi 2022-06-16 PinePhone Daily Driver Challenge
+=> gemini://fossphones.com/06-24-22.gmi 2022-06-24 Linux Phone News - June 24, 2022
 
 # = = = = = = = = = =
 
