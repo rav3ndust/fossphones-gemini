@@ -1,0 +1,129 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/community.gmi  Community
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Linux Phone News - June 24, 2022
+
+Welcome to another edition of FOSSphones news - and in this roundup, we have quite a bit to discuss, especially since it has been a bit since I have been able to update the site with a news roundup.
+
+We're going to cover a few exciting updates this time around, including the GNOME Team looking into an official smartphone shell for GNOME, a brand new release of LineageOS bringing Android 12 to a lot of supported devices, some news from our friends at UBports, and more. Let's get right into it.
+
+### LineageOS Brings Android 12 to Supported Devices
+
+Over the last few months, I have been following the work ongoing by the LineageOS dev team to port Android 12, resulting in the new version of LineageOS, version 19.
+
+The update landed on two of my devices, which are an Essential Phone and a Moto z3 Play. So far, I have been loving the new update, and it is loaded with some new and exciting features for your device. Here are some of the biggest changes to make their way to your Lineage phone with this update:
+
+* Security patches through the months of March 2021 to April 2022 have found their way into builds of Lineage 16 through 19, helping keep your devices safe and secure.
+* The WebView was updated to Chromium 100.0.4896.127.
+* The Updater app saw some bug fixes and other improvements.
+* The included "Jelly" web browser also received some bug fixes and a number of improvements.
+* Default dark mode - hurray! 
+* New icons for system applications and more. 
+* ...and a host of other improvements.
+
+If you have a supported LineageOS device, you can grab your update from the LineageOS downloads page.
+
+You can also read the rest of the changelog for this new version of LineageOS at the "Changelog" link below.
+
+Interested in LineageOS but don't have it yet for your Android device? Check if your smartphone is supported at the device list found at the "Devices" page below.
+
+=> https://lineageos.org                LineageOS
+=> https://download.lineageos.org/      Downloads
+=> https://lineageos.org/Changelog-26   Changelog
+=> https://wiki.lineageos.org/devices/  Devices
+
+### GNOME Begins Conceptual Phone Shell
+
+"Wait", you're probably wondering, "isn't there already a mobile version of GNOME?" 
+
+Sort of. The mobile shell you might be thinking of, and the one that we know and love here at FOSSphones, is the Phosh Shell, developed by Purism. 
+
+=> https://wiki.postmarketos.org/wiki/Phosh Phosh Shell 
+
+However, a new shell has been in the works <i>officially</i> from our friends at the GNOME Team, and while it is largely conceptual so far, the concept is looking great. GNOME 40 already has a good deal of components needed to make it run nicely on phones, and as they mention in their new update, many pieces of what it would take to run GNOME proper on a smartphone are already sort of in place:
+
+* Customizable application grid. 
+* Swipe gestures for system navigation.
+
+Several things that the GNOME Team are currently working on for desktop are thought of as relevant for mobile usage as well - a redesign to how notifications are presented, an on-screen keyboard with improvements, and a quick settings panel.
+
+According to the update linked below, the GNOME Team has been able to focus on GNOME mobile support with help from a grant by the Prototype Fund. I'm definitely excited to see where it goes from here! 
+
+=>  https://blogs.gnome.org/shell-dev/2022/05/30/towards-gnome-shell-on-mobile/www.prototypefund.de Prototype Fund
+
+Make sure you check out the official statement from the GNOME Team regarding this update at the link below, and check out some of the screenshots offered on the page to get an idea of where it might be going. 
+
+=> https://blogs.gnome.org/shell-dev/2022/05/30/towards-gnome-shell-on-mobile Towards GNOME Shell on Mobile 
+
+### New Updates From Ubports 
+
+At FOSSphones, we love Ubuntu Touch, and our friends at Ubports have been making amazing strides in the development of the popular alternative mobile operating system. Lately, a new update was released from Ubports - here are a few of the highlights:
+
+* A few cool new apps have been spotlighted by the team, including CloudMusic, an app that allows you to seek out, download, and listen to your favorite tunes. Seabass2 - an adaptive mobile code editor, is another exciting addition to check out. Both of these can be found in the Ubuntu Touch OpenStore.
+
+=> https://open-store.io/app/apu.johangm90      CloudMusic on the OpenStore
+=> https://open-store.io/app/seabass2.mikhael   Seabass2 on the OpenStore
+=> https://open-store.io                        OpenStore Homepage
+
+* Ubports developer Florian Leeber will be giving a talk on Saturday at the 2022 Volla Community Days. The Volla Phone, if you are unaware, is a nice smartphone from Volla that can run Android or Ubuntu Touch.
+* If you have some coding skills and some spare time, Ubports is also looking for assistance with a few things they are working on, including making a GUI app around a script by @BR1 that can block unwanted phone calls. You can also contribute ideas to the building of a Cell Broadcast feature that Lionel Duboeuf is currently working on.
+
+You can read the entire newsletter from Ubports at the link below. 
+
+=> https://ubports.com/blog/ubports-news-1/post/all-rejoice-your-biweekly-ubports-news-is-here-3850 Ubports Newsletter
+
+### PinePhone Updates
+
+Here are a few updates regarding the PinePhone and PinePhone Pro: 
+
+* The PinePhone Pro has been out of stock lately, but that could change soon as the next batch of devices are planned to arrive in the Pine Store sometime in June or July.
+* Work is ongoing to bring camera support to PinePhone Pro.
+* Support for Bluetooth HFP (which allows you to make hands-free voice calls) has landed for mobile Linux.
+* A conceptual companion for your PinePhone has been dreamed up by the Pine64 Team, and they are called the PineBuds - think Apple AirPods, but for your mobile Linux device! More information to come on this as it becomes available.
+
+You can read the update in its entirety directly from Pine64 at the link below. 
+
+=> https://www.pine64.org/2022/05/31/may-update-worth-the-wait/ Pine64 May Update
+
+### InfiniTime Updates
+
+If you are a fan of Pine64's smartwatch, the PineTime (like I am), this part of the roundup is especially for you, as we are seeing some more progress in milestones coming along nicely for InfiniTime.
+
+From the same update linked above, you can find some of the latest pieces of information about the progress on InfiniTime developement:
+
+* Work is ongoing for leveraging external flash memory to allow the PineTime to store images and fonts. A good deal of inspiration for this comes from the InfiniTime fork, PineTimeLite, which has been another great software project for the PineTime device to watch blossom.
+* There is also new updates to ITD, the InfiniTime daemon/GUI app, along with a fork of InfiniTime by StarGate01 which is made to expose high-frequency data from the device's accelerometer - along with a companion application which is able to display the data in real-time. A great development tool for anyone working on the project, indeed!
+
+Make sure you read the rest of the update regarding InfiniTime at the same Pine64 update linked above, and we will keep you up to date on any new PineTime developments as time goes on.
+
+### === 
+
+That about wraps up another FOSSphones news roundup - thanks for your patience as I have been working to finally be able to dedicate more time to FOSSphones again and getting some things set up in the background to continue to build and contribute in any way I can to our excellent mobile Linux community.
+
+Until next time, have a great rest of your June! 
+
+## = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust
