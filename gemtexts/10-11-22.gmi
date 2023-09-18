@@ -1,0 +1,96 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/community.gmi  Community
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Linux Phone News - October 11, 2022
+
+That's right - it's already time for your next FOSSphones news roundup! As mentioned before, I have made a shift in how I am doing things since I am spending more time working on our homestead, which frees up a lot of time for me to resume working on Linux Phone projects!
+
+With that in mind, let's check out some of the new developments that have been going around in the last couple of weeks. This update might not be too big, but there are a few new pieces of information I'd like to share so that you can be aware of them if they are something you might be interested in checking out on your own!
+
+### The Simple Phone is on the Way
+
+If you are aware of Simple Mobile Tools, a collection of popular, FOSS, and privacy-respecting Android apps available on F-Droid, then you might be interested in this little piece of news.
+
+Simple Mobile Tools have been around for awhile, and have provided great apps for Android smartphone basics, such as a Dialer, an SMS app, a Camera app, a Contacts app, and more. Each of these are meant to be privacy-respecting and open-source alternatives to their native implementations, and are great apps that can be used on AOSP and custom forks based on it, such as LineageOS or Resurrection Remix.
+
+Recently, however, it has been announced that Simple Mobile is going to be releasing a device all its own - the Simple Phone (de-Googled, of course). Here are some of the specs the device is expected to sport:
+
+* MediaTek MT6771 (Helio P60) processor
+* 4GB of RAM
+* 128GB onboard storage
+* 6.53 inch FHD+LCD display
+* 4G LTE connectivity
+* Bluetooth 4.2
+
+The device will run SimpleOS, based on Android 11, with built-in Simple Apps, F-Droid, and an implementation of Micro-G. I will update more about this device as more information becomes available.
+
+As you can see, the hardware is nothing exciting that is going to be pushing mobile limits of speed, but it could be a decent entry phone for someone who doesn't need a ton of power out of their hardware, and who are looking for a de-Googled Android experience out of the box without having to worry about flashing custom variants of Android on their own.
+
+=> https://www.simplemobiletools.com/ Learn about Simple Mobile Tools
+=> https://simplephone.tech/ Learn about Simple Phone
+
+### Firefox OS Makes a Comeback, Again
+
+Remember how excited we all were back in 2015 to learn about Firefox OS, a FOSS operating system effort by Mozilla for phones, tablets, televisions, and the like? It was meant to bring us the HTML-5 powered experience we've been promised for so long, and it looked and performed nicely on a wide range of devices.
+
+Sadly, the project fizzled out, and the only successful implementation of it has been kaiOS, a commercial and closed-source version of the Firefox OS of yesteryear. KaiOS is not well-known for being privacy-centric or community-driven, which is why this next announcement is pretty interesting for anyone who would like to do some playing about with another Firefox OS variant - and one just so happens to now exist for a few mainline Linux devices, the PinePhone Pro and the Librem 5, and an Android device (the Pixel 3a).
+
+The new project, known as Capyloon, ships with Nutria, the frontend UI and collection of web applications that you can use right away. The api-daemon and contentmanager service are specific to the Capyloon project, and provide the data management layer for the software.
+
+Want to try it out? Here are the relevant links:
+
+=> https://capyloon.org/releases.html Desktop builds (Debian package)
+=> https://capyloon.org/releases.html Latest images
+=> https://github.com/capyloon Project source code repository
+
+There is also a Capyloon Matrix community you can check out if you are interested in the project.
+
+=> https://matrix.to/#/#capyloon:matrix.org Capyloon Matrix community
+
+### Android 13-based CalyxOS Now on Supported Pixels
+
+The privacy-centric Android distribution, CalyxOS, has announced that Android 13 is now powering the operating system on supported Pixel devices, which include the Pixel 4 all the way up to the Pixel 6a. There are also builds available for Pixel 3 and FP devices.
+
+Along with the move to Android 13, there are some other new updates in the changelog for this iteration of CalyxOS:
+
+* Chromium bumped to version 106.0.5249.65
+* Previous translations were re-added
+* October Android Security update (10-05-2022)
+* Material You color picker available in Home Settings
+
+If you want to check out CalyxOS for yourself, make sure you head over to their Devices list and ensure you have a supported phopne - if so, it is a simple process to flash the operating system to your device. I won't go into that process here, but I might make a guide for flashing custom Android variants in the future.
+
+=> https://calyxos.org/ Learn more about CalyxOS
+=> https://calyxos.org/news/2022/10/07/android-13-october-update/ Read the full announcement
+
+### === 
+
+That's about it for this roundup - stay tuned to FOSSphones, however, because in the next week or so I am going to be doing my write-up on using my PinePhone, and only my PinePhone, as my daily-driver, and how the experience has been. I am going to try to make some video content surrounding this as well, just for the fun of it - and of coure, to get some conversation going about the state of GNU/Linux on mobile for everyday usage.
+
+As always, thanks for stopping by and reading our Linux Phone updates. Until next time!
+
+## = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust
