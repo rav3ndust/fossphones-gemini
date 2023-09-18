@@ -1,0 +1,110 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/community.gmi  Community
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Linux Phone News - June 1, 2023
+
+A bit of a delayed update this roundup, but a roundup nonetheless! After a busy last little while for my personal life, I'm finally shifting my focus back to my work on FOSSphones, and there are several pieces of news to get caught up on!
+
+If you're ready, let's dive right into some of the latest pieces of news in the world of mobile Linux!
+
+### PineTab 2 and PineTab-V: Ready For Lift-Off
+
+If you, like me, missed out on picking up the original PineTab when they were first being discussed in the mobile Linux world, you'll be glad to know that you now have not one, but two options available to you when it comes to a new Linux tablet from Pine64.
+
+The new PineTab2 and PineTab-V devices can be found in the Pine Store, having been officially announced for launch back in April. Let's take a look at their specs:
+
+PineTab2
+
+* Rockchip RK3566 chipset
+* 64-bit Quad-core 1.8GHz ARM Cortex A-55 CPU
+* Mali-G52 GPU
+* 128GB internal flash memory
+* 8GB LPDDR SDRAM
+* Expandable up to 2TB with microSD (SDHC, SDXC)
+* Ships with DanctNIX Arch Linux
+
+PineTab-V
+
+* StarFive JH7110 chipset
+* 64-bit Quad-core 1.5GHz SiFive U74 RISC-V CPU
+* Imagination Technology BXE-4-32 GPU
+* 128GB internal flash memory
+* 8GB LPDDR4 SDRAM
+* Expandable up to 2TB with microSD (SDHC, SDXC)
+* Ships without an operating system
+
+At the time of writing, the PineTab2 is currently in stock and available for purchase, and the PineTab-V is currently out of stock. You can visit these devices' Pine Store pages easily - here's links for the PineTab2 and the PineTab-V so you can bookmark them and pick one up when you're ready (or when your choice is available)!
+
+=> https://pine64.com/product/pinetab2-10-1-8gb-128gb-linux-tablet-with-detached-backlit-keyboard/ PineTab 2 Product Page
+=> https://pine64.com/product/pinetab-v-10-1-8gb-128gb-risc-v-based-linux-tablet-with-detached-backlit-keyboard/ PineTab-V Product Page
+
+### Fedora Mobility Coming to More Devices
+
+If you're a Fedora fan and want to use it on your mobile devices as well as on your desktop, you're in luck - there are some builds being released that might be just what you're looking for.
+
+For running Fedora on PinePhone, you should read this write-up on the GitLab page for the project. The dev team working on this project are updating some scripts using Kickstart and the new Fedora Phosh images. If you want to test out one of these images for yourself, check out the nightly builds page. P-boot is included as the bootloader, and is configured for use only on SD cards at the moment, so don't install these on your device's eMMC storage yet unless you're comfortable with changing your P-boot config. You can also run the included btrfs-expand-root-part.sh in order to expand your partition to the full size of the SD card.
+
+You can also run Fedora on the PinePhone Pro. Most of the above things for PinePhone are also true here, but you should still read the GitLab page for PinePhone Pro before you get started using it on your device. When you're ready, grab an image of Fedora for PinePhone Pro from the nightly builds link.
+
+Got a OnePlus 6? You can also now run Fedora on that - check out the script by Markus Rathgeb for building an image, and read the post on that link for the breakdown on how it's done. The link is posted below.
+
+=> https://gitlab.com/fedora/sigs/mobility/pinephone Writeup on Gitlab
+=> ftp://pine.warpspeed.dk/nightly/pinephone/ Nightly builds
+=> https://gitlab.com/fedora/sigs/mobility/pinephonepro GitLab for PinePhone Pro
+=> ftp://pine.warpspeed.dk/nightly/pinephone-pro/ Nightlu builds for PinePhone Pro
+=> https://www.maggu2810.de/mobile-devices/op6-instructions-fedora.html Markus Rathgeb script
+
+### postmarketOS Call For Testing
+
+If you're a fan of postmarketOS and want to join in on a fresh call for testing, now is the time! Alpine Linux 3.18 just dropped, and the postmarketOS team is getting ready with the upcoming release of pmOS 23.06, which will be available before too long.
+
+In the meantime, the team has been getting a testing group together. You can read more about and join the testing team at this link if you are interested in participating:
+
+=> https://wiki.postmarketos.org/wiki/Testing_Team Get in on the testing action!
+
+This is a great opportunity to do some testing on your specific device, make sure everything is running as expected, and report any bugs you might find to the postmarketOS team! If you have a supported device and are interested, get in on the action by getting caught up further with this post from the postmarketOS team: 
+
+=> https://postmarketos.org/blog/2023/05/21/call-for-testers/ Post from postmarketOS team
+
+### Use AI Tools on Your Linux Phone
+
+This isn't a big piece of news as much as a small, fun tip. Since the last FOSSphones roundup, a few interesting applications for GNU/Linux have dropped, called Bavarder and Imaginer.
+
+Here's a quick look at what each of these applications do:
+
+Bavarder allows you to talk to different AI models in a chatbox. You can use the included BAI Chat to speak to an implementation of ChatGPT, you can speak to the HuggingFace bot, or you can use your own OpenAI key to interact with 3.5 Turbo or GPT-4.
+Imaginer allows you to generate images using a text prompt. Imaginer uses Stable Diffusion as the default model for image generation.
+If these apps sound like something you'd like to try on your Linux phone or desktop, you can grab them both as Flatpaks from Flathub. Here are links for each application: 
+
+=> https://flathub.org/apps/io.github.Bavarder.Bavarder Barvarder on Flathub
+=> https://flathub.org/apps/page.codeberg.Imaginer.Imaginer Imaginer on Flathub
+
+### === 
+
+That's it for this one! As usual, thanks for reading and thanks for stopping by, and we will see you in our next FOSSphones news roundup! 
+
+## = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust
