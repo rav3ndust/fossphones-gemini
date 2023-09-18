@@ -1,0 +1,151 @@
+# FOSSphones
+
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/community.gmi  Community
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Linux Phone News - January 17, 2023
+
+Hello, and Happy New Year to everyone in the Linux Phone community! It has been far too long since our latest update here at FOSSphones due to being slammed with work, helping some friends move across the country, and a number of other things that have sprung up over the holidays and new year. However, things have finally calmed down, and I am more than happy to finally be able to say that FOSSphones is now what I am focusing on full-time. This means I will be bringing a lot of new things to this site very soon, including more timely updates, and we are also bringing in something new...
+
+It's been in the works for a little while, but we are preparing to start the FOSSphones Store. More information will be coming about this in the next few weeks, but I am working with a close friend of mine on producing 3D-printed accessories for Linux phones and smartwatches, such as the PinePhone and PineTime. We have a nice 3D printer setup with some models we have been producing for testing, and they are coming along nicely. More to come on this, I am excited about getting into building the FOSSphones Store in the coming weeks and have some fun things that you can personalize your devices with. More to come soon on that front!
+
+The main thing we're here to discuss is of course, the latest updates in the world of Linux Phones since the last time we spoke. A lot has happened in the last few months, so let's dive right into them and get you up to speed, shall we?
+
+### LineageOS 20 is Out For Supported Devices
+
+For those fans of AOSP-based operating systems out there (of which I am one - my main de-Googled phone is an Essential PH-1 (mata) running LineageOS 19.1), you'll like this announcement. If you have a supported device - of which there are many - you will be happy to know that LineageOS 20 has officially dropped, based on the latest Android 13.
+
+Here are some of the newest features you can expect to find in this release:
+
+* Security patches from April 2022, all the way to December 2022, have made their way into LineageOS versions 17.1 through 20.
+* LineageOS has a new camera app called Aperture, built on top of Google's CameraX library. It aims to provide a closer to stock experience on LineageOS devices.
+* The system WebView has been updated to Chromium 108.0.5359.79.
+* A redone volume panel has been introduced, along with further expansions on the pop-out panel.
+* Matching AOSP conventions, LineageOS now supports GKI and Linux 5.10 builds, with full support for out-of-tree modules.
+* LineageOS' fork of AOSP's Gallery app saw some improvements.
+* The Updater app saw improvements, as well as adding a new layout for Android TV.
+* The Jelly web browser saw bug fixes and improvements.
+* LineageOS changes were sent upstream to the SeedVault backup application.
+* The Recorder app saw improvements, as well as added support for Material You, stereo support, and more.
+* A host of other fixes and improvements, which you can read about on the official update from the LineageOS Team.
+
+LineageOS is my favorite of all the AOSP-based operating systems. Descended from CyanogenMod, it supports a huge range of devices, has a nice range of features, and is usable out of the box with or without Google apps ("gapps"). For privacy reasons, I run my devices without Gapps, and use F-Droid for obtaining my applications, which I highly recommend anyone do who is looking to use FOSS applications on their favorite AOSP-based operating systems.
+
+=> https://lineageos.org/Changelog-27/ Read about other updates and fixes straight from the LineageOS site.
+
+### Pine64 Announces the PineTab 2
+
+If you missed the boat on picking up the original PineTab from Pine64, which sadly has not been available in the Pine Store for some time, you will be happy to know that the company is working on a brand new tablet, called, fittingly, the PineTab 2.
+
+The forthcoming tablet is based around the RK3566 SoC by RockChip - the same SoC powering the Quartz64 board. It sports a quad-core Cortex-A55 processor integrating a Mali-G52 MP2 GPU. Development for the chip is now busier than it has ever been, and it aims to be "future-proof" by solid performance, plenty of I/O ports for your peripherals, and more.
+
+The PineTab 2 has seen a huge overhaul in its hardware. It sports a metal chassis that aims to be very sturdy and durable while also being simple for users to disassmble and repair or upgrade when they need to. It will also provide "modern and reasonably thin bezels," putting it that more modern aesthetic. Like most other products offered by Pine64, the company aims to provide parts for the tablet that you can easily pick up and install on your own, much like you can now for your PinePhone or Pinebook Pro.
+
+The ports you can expect to find on the PineTab 2 are as follows:
+
+* 2 USB-C ports: One for USB 3.0 and one for charging.
+* A dedicated micro-HDMI port.
+* Rear-facing 5-mepapixel camera.
+* Front-facing 2-megapixel camera.
+
+The device will come in 2 variants when it comes to memory and storage:
+
+* 4GB of RAM, 64GB of storage.
+* 8GB of RAM, 128GB of storage.
+
+Just like with the original PineTab, you can also expect your PineTab 2 to come with a backlit, detachable keyboard for your typing convenience. You can also eventually expect most, if not all, of your favorite mobile Linux distributions to support it.
+
+=> https://www.pine64.org/2022/12/15/december-update-merry-christmas-and-happy-new-pinetab/ Read the PineTab 2 announcement from Pine64
+
+### Mobian - Looking Forward
+
+One of my favorite mobile GNU/Linux distributions is Mobian - probably because it is just the mobile version of my favorite desktop/server Linux distribution - Debian. I have been running Mobian on my PinePhone happily ever since I discovered it, and there is some new updates from the Mobian project that you might be interested in if you are also a fan of the project.
+
+In quite a long and insightful blog post, which will be linked below for you to check out at your convenience, the Mobian Team pontificated on the last year of the project, and what is to come in 2023. It is a great read, and while I highly encourage you to read the whole thing, I will touch on some of the main updates here.
+
+Here are some of the most important points brought up in the post:
+
+Mobian has moved its source code from gitlab.com to Debian's own GitLab instance, Salsa. The team is working on improving Mobian as much as possible and moving many downstream packages upstream.
+The Mobian team has successfully pushed many packages into the official Debian archive, including, but not limited to, calamares-extensions, mobile-config-firefox, numberstation, phosh-antispam, sxmo-utils, and more.
+The team aims to begin supporting new hardware, including the PineTab 2 and the Fairphone 4.
+Contribute to further upstream projects, including (hopefully), bringing Tow-Boot support to the PineTab 2 and Librem 5.
+Bring the first Mobian stable release out.
+Provide Mobian support to other mobile desktop environments, including Plasma Mobile and Lomiri. The team is also looking at continuing work on packaging even more mobile-friendly Linux apps, such as Organic Maps.
+
+=> https://blog.mobian.org/posts/2023/01/08/2022-review/ Read the post directly from the Mobian Team
+
+### Librem 5 Gets a Welcome Camera Update
+
+It is no secret that the cameras on Linux phones are not quite up to par with their Android and iOS counterparts, due mostly to current hardware limitations on the available mainline Linux phone models. However, work is ongoing to bring better camera support and new features to Linux phones all the time. Now, Purism is jumping into the fray to improve camera support on its own Librem 5 devies.
+
+One of the biggest camera applications currently shipping on Linux mobile distributions is the excellent Megapixels, by Martijn Braam. Purism created its own fork of Megapixels, called Millipixels, specifically for Librem 5 devices. It has been updated along with Megapixels, and has added some Librem-specific optimizations for the various Librem 5 hardware revisions.
+
+There have been some new features added to the application recently, thanks to community contributor Pavel Machek. Bringing an "automatic" photo mode, it brings further support to bringing a "point and shoot" experience to the Librem 5's camera. Most changes relate to autofocus, automatic exposure, and video recording - the changes have made their way into the master branch of the codebase. If you have a Librem 5, you should see these changes come to your device on your next update.
+
+### FydeTab Duo - Another Tablet Enters the Ring
+
+If you have ever used or spent time reading about a Chromebook, you are sure to know what chromeOS is - Google's own Linux-based operating system that makes the Chrome browser and cloud technology front and center. However, while the operating system is nice as a concept for people who work mostly in cloud-based environments or want the kind of setup that chromeOS offers, they may be put off by the privacy aspect - everything going through Google applications and services.
+
+Thankfully, like Android, chromeOS is based on free software, in this case, chromiumOS. This means that other developers are free to take this base chromiumOS (much like many already do with the Chromium browser base to make their own browser on top of), and build on top of it. Such is the case with FydeOS, which aims to bring the convenience of chromeOS without doing everything through Google.
+
+The FydeOS team has now announced something new - the FydeTab. Another tablet that not only will ship with FydeOS, but will also support the installation of alternative operating systems. This means, of course, that if FydeOS isn't your thing, but you love the hardware, you can install your favorite mobile Linux distribution, if it supports the hardware.
+
+Here are a few pieces of information about the tablet that you might be interested in (some of these assume you are using FydeOS):
+
+* Boots up in seconds.
+* Updates happen in the background for your convenience.
+* Sports up to 10 hours of battery life.
+* Android subsystem for running Android applications.
+* Linux subsystem for doing all of your Linux-centric work.
+* Built on the RK3588S, with an octa-core CPU.
+
+> Fun fact: The Mobian Team has talked about wanting to bring support to this device!
+
+=> https://fydetabduo.com/ Read the official announcement from the Fyde Team
+=> https://fydeos.io/ Learn about FydeOS
+### FOSDEM 2023 Announcement and Call For Volunteers
+
+FOSDEM is an annual event in Brussels for free software developers to get together, discuss ideas, and collaborate with one another. It is a massively popular event that brings together those passionate about free and open-source software for talks, presentations, beer, and much more.
+
+For the first time at FOSDEM this year, there will be a dedicated Linux on Mobile section of the conference. You can expect to see stands for projects like Ubuntu Touch, SailfishOS, Mobian, postmarketOS, and much more.
+
+Recently, FOSDEM put out a call for volunteers who wish to help setup the event. You can read the full page from FOSDEM here, where you can see some of the responsibilities you will have as a volunteer in helping set up the event and clean up the area when the event is over.
+
+FOSDEM will be held February 4 and 5, 2023.
+
+While I would love to attend FOSDEM this year, I don't believe I will have any way to get funds together for travel and accomodations this time around. Perhaps next year FOSSphones can show up at FOSDEM, if I can plan it out.
+
+For general information on FOSDEM, please visit the event's official site.
+
+=> https://fosdem.org/2023/news/2023-01-16-call-for-volunteers/ FOSDEM 23 call for volunteers
+=> https://fosdem.org/2023/ FOSDEM official homepage
+
+### === 
+
+There are always new things happening in the world of mobile Linux, and I am glad I am finally able to dedicate my full attention to FOSSphones this year. This has been my goal for a long time, as this is the space I am currently most passionate about in the free software community. It is still in its infancy, but what you are seeing is the building of a brand new mobile ecosystem.
+
+I, for one, am proud of it and excited to be part of it. Let's see where it continues to go, together. Thanks for reading, happy new year, and we will see you next week for the next FOSSphones news roundup.
+
+## = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC: 
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust
