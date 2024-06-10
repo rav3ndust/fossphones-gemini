@@ -10,7 +10,7 @@ This repository is where I will be keeping all the .gmi files and related stuff.
 
 ## Wanna help?
 
-Got any ideas for articles about Linux Phones or other FOSS mobile stuff (such as free Android distributions like LineageOS or GrapheneOS)? Or a piece of FOSS mobile news we might have missed? Did you notice a typo or a 404 from one of our pages?
+Got any ideas for articles about Linux Phones or other FOSS mobile stuff (such as free Android distributions like LineageOS or GrapheneOS)? Or a piece of FOSS mobile news we might have missed? Found some cool FOSS mobile apps we should know about? Did you notice a typo or a 404 from one of our pages?
 
 Please feel free to write up an article (*include your name, nickname, and contact handle*) if you want to have it posted on the Gemini and HTTPs versions of FOSSphones. We are always happy to share any content about Linux Phones with the world. Just format your article in HTML or gemtext and send it over through a pull request - I will check it out and merge it. :) 
 
