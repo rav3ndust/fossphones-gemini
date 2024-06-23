@@ -42,7 +42,7 @@ As usual, we're going to be breaking down the updates to the Phosh core componen
 * Speed up builds by separating generated sources and headers.
 * Documentation was improved, and some bugs were squashed.
 
-=> https://gitlab.gnome.org/World/Phosh/phoc/-/releases/v0.39.0 You acn see the full list of updates for Phoc in greater detail here.
+=> https://gitlab.gnome.org/World/Phosh/phoc/-/releases/v0.39.0 You can see the full list of updates for Phoc in greater detail here.
 
 ~ Squeekboard updates
 
