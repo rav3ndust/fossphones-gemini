@@ -1,0 +1,211 @@
+# FOSSphones
+### your number one source for linux phone news
+  
+=> gemini://fossphones.com/community.gmi  Community
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Linux Phone News - June 21, 2024
+
+Greetings, and welcome to the June FOSSphones news roundup! Unfortunately, I wasn't able to update the site last month due to having to deal with some family things and some medical appointments. As always, I've been collecting notes on things to write up when it comes to FOSSphones news, however, and we're finally ready to bring a nice new update covering the highlights of the May and June period that I was away.
+
+In this update, we're going to be looking at some news from the Phosh and Sxmo worlds, a brand new postmarketOS update, some new updates regarding CalyxOS and LineageOS, and more! With all that being said, let's jump right into it!
+
+### Phosh 0.39.0 Release
+
+Phosh, the mobile desktop built on top of GNOME technologies, celebrated its 0.39.0 release on May 15. We love Phosh around here, so as always, we're excited to highlight some of the major points with each release, and this one is no different.
+
+As usual, we're going to be breaking down the updates to the Phosh core components (Phosh, Phoc, and Squeekboard), along with some recommended components, which include phosh-mobile-settings (a Phosh Settings application, like GNOME Settings) and phosh-tour (a quick introduction to Phosh, like GNOME Tour). Let's get into it!
+
+=> https://phosh.mobi Phosh homepage
+
+~ Phosh updates
+
+* Support for folders to organize applications in the overview.
+* A new optional night-light quick toggle.
+* Documentation fixes in prep for Rust bindings.
+* Improvements to the test suite, including stable clock and using shell state instead of timeouts in order to track changes of state.
+* Improved translatability of timestamp labels.
+* A number of issues were fixed.
+
+=> https://gitlab.gnome.org/World/Phosh/phosh/-/releases/v0.39.0 You can see the full list of updates for Phosh in greater detail here.
+
+~ Phoc updates
+
+* Configure what wakes up the display with GM_WAKEUP_KEY_* udev attributes.
+* Animation of always-on-top toggling.
+* The window-cycle order was fixed.
+* Speed up builds by separating generated sources and headers.
+* Documentation was improved, and some bugs were squashed.
+
+=> https://gitlab.gnome.org/World/Phosh/phoc/-/releases/v0.39.0 You acn see the full list of updates for Phoc in greater detail here.
+
+~ Squeekboard updates
+
+* New-button styles are used in available layouts when appropriate.
+* Terminal layout top rows were made a bit taller.
+* The keyboard can now choose wide shape of layouts for more displays when in horizontal orientation.
+* Highlighted buttons now show visual feedback when pressed.
+* Scaling tests for more display types have been added.
+* Some issues were fixed in the consistency in layouts.
+
+=> https://gitlab.gnome.org/World/Phosh/squeekboard/-/releases/v1.39.0 You can see the full list of updates for Squeekboard in greater detail here.
+
+~ Phosh Mobile Settings Updates
+
+* Allows the management of custom quick settings.
+* osk-panel - configure whether or not to ignore hardware keyboards.
+* New translations!
+
+=> https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/releases/v0.39.0 You can see the full list of updates for Phosh Mobile Settings here.
+
+~ Phosh Tour Updates
+
+* Don't depend on installed fonts in the power menu.
+* Some issues were fixed. 
+
+=> https://gitlab.gnome.org/World/Phosh/phosh-tour/-/releases/v0.39.0 You can see the full list of updates for Phosh Tour here.
+
+=> https://phosh.mobi/releases/rel-0.39.0/ For all the details from the Phosh team, please be sure to check out the full update!
+
+As usual, if you run Phosh, be sure to check your Linux phone distribution for updates if you haven't already so you can get the newest bits!
+
+### Sxmo 1.16.1 Release
+
+On all my computers, I run tiling window managers, and as you can bet, I also enjoy playing around with them on my Linux mobile devices. This is where Sxmo (Simple X Mobile) shines. If you like Sxmo as well, you might be excited to find out about these updates as well!
+
+=> https://sxmo.org/ Sxmo homepage
+
+Here's the latest in this new, yet small, 1.16.1 update.
+
+* Improvements in suspension control.
+* Internal scripts for easier end-user control.
+* Initial support for the PineTab 2 and Redmi Note 4.
+* Bug-fixes!
+
+If you run Sxmo and are looking to update, make sure you also run sxmo_migrate.sh after rebooting in order to sync your config files to the newest release.
+
+=> https://lists.sr.ht/~mil/sxmo-announce/%3CD1QCSDN7DYIB.2R4TBAG9SVKDQ@willowbarraco.fr%3E You can see the full note from the Sxmo team at this link.
+
+### postmarketOS Can Now Boot on Up to 250 Different Devices!
+
+PostmarketOS has become the main mobile distribution I run on my PinePhone, as it is one of the most consistently stable options and stays up to date with all the mobile desktop options and apps. It also has support for many more devices than just mainline Linux phones, such as Android devices that would otherwise end up in a landfill when they stop getting Android updates. I despise the idea of otherwise perfectly good devices becoming e-waste, and if you have some old devices you aren't using anymore, now might be a good time for you to consider trying postmarketOS on them!
+
+That's because, as of the team's latest update, the operating system now supports up to 250 different devices! That's not just phones either - but laptops and tablets, too! Got a Chromebook you're not using anymore because Google stopped sending out ChromeOS updates for your model? There's a good chance postmarketOS now supports it!
+
+Along with this wider support for more devices, here are some of the other highlights from the latest update from the pmOS team:
+
+* GNOME Shell Mobile 46, Plasma Mobile 6.0.5, Phosh 0.39.0, and Sxmo 1.16.3 are now ready to go on postmarketOS.
+* Each supported UI now features the beautiful new Meadow wallpaper.
+* Chromebooks have new keyboard mappings, and the Samsung Chromebook now supports GPU acceleration.
+* logbookd is now the default logger.
+* Non-free firmware is now installed by default.
+* There have been loads of improvements, bug fixing, and kernel updates thanks to the efforts of community contributors and device maintainers!
+
+There's never been a better time to be a postmarketOS user with this latest news! If you want to see the full update from the pmOS team (and I encourage you to!), please check out the link below!
+
+=> https://postmarketos.org/blog/2024/06/16/v24.06-release/ Full update from the postmarketOS Team
+
+### A Short Update on the Megapixels App
+
+Megapixels is pretty much the standard standard camera application on mobile Linux, and recently, Martijn Braam shared some of the latest patches and contributions that have been making their way into the Megapixels codebase. Let's take a look at the highlights!
+
+The libmegapixels library has seen some of its first external contributions, and there has been some nice progress on that front. Contributor Pavel Machek made progress for video recording on the PinePhone, adding in UI elements for video recording. There are currently two implementations of video recording on the device:
+
+* One implementation saves raw DNG frames to a tmpfs, as RAM is the only thing able to keep up with the data rate. With this, you should get roughly 30 seconds of video recording time, with some added time for the actual process of encoding the video.
+* The other implementation involves putting the device's sensor in a YUV mode instead of using raw data. This does admittedly produce a worse picture quality on the PinePhone's sensor, but the data format also more closely matches the way frames are stored in the video files. Together with encoding H.264 video with ultrafast-preset, it should be able to make it possible to record realtime video on the device.
+
+It's great to see Megapixels gaining even more capabilities to help mobile Linux devices provide a better experience in this area. If you want to see the full technical breakdown, I encourage you to check out Martijn Braam's post about it!
+
+=> https://blog.brixit.nl/megapixels-contributions/ Post from Megapixels dev Martijn Braam
+
+### CalyxOS June Security Update is Here
+
+The free software AOSP distribution, CalyxOS, just released their quarterly platform release and security update for June. It is a relatively short update.
+
+=> https://calyxos.org/ CalyxOS homepage
+
+Here's the quick changelog:
+
+* CalyxOS 5.8.0 June Quarterly Platform Release and Security update
+* Chromium was updated to version 126.0.6478.50.
+* All included applications were updated.
+* For the Pixel 8a, all changes from previous feature updates were included.
+
+This update currently relates to these devices:
+
+* Pixel 4a (5G) 
+* Pixel 5 
+* Pixel 5a
+* Pixel 6 
+* Pixel 6a
+* Pixel 6 Pro 
+* Pixel 7 
+* Pixel 7a 
+* Pixel 7 Pro 
+* Pixel 8
+* Pixel 8a 
+* Pixel 8 Pro 
+* Pixel Fold 
+* Pixel Tablet 
+
+The above listed devices received the Stable update on May 18, the Security express update on June 13, and the Beta update on June 14 (all OTA, as usual).
+
+Other devices supported by CalyxOS are currently a work-in-progress for this update. Remember, other devices supported by CalyxOS (such as the supported Fairphone and Moto models) follow a different release schedule than the Pixel devices, and are usually a month behind.
+
+If you want to read this update from the CalyxOS Team, check it out at the link below. 
+
+=> https://calyxos.org/news/2024/06/13/june-qpr3-security-update/ Update from the CalyxOS Team
+
+### LineageOS Now Supports the Nintendo Switch
+
+Speaking of free software AOSP distributions, LineageOS now supports the Nintendo Switch console!
+
+=> https://lineageos.org/ LineageOS homepage
+
+While Android 10 has been seen running on the device before, an important thing to note is that this is the very first time it's officially been supported by LineageOS. If you have a Switch device and want to mess about with running AOSP on it, opening up the possibility to play emulators and games from more than just Nintendo, this is your chance to check it out.
+
+To make things even better, the Lineage build uses Android TV when the Switch is put into its dock when using it on the big screen. Also, you can flash the build onto an SD card, so that you don't have to remove the Switch's native OS.
+
+While this isn't really an update that pertains wholly to phones, it is always neat to see the AOSP distribution I use the most get support for other devices! You can learn more about how you can go about getting this installation up and running, including some requirements and prerequisites, at the link below. 
+
+=> https://9to5google.com/2024/06/17/lineageos-21-now-officially-supports-the-nintendo-switch/ Article from 9to5Google
+
+### FOSSphones App Highlights
+
+* Medilog: Medilog is a FOSS health-tracking application that I have been using daily on my Lineage device the last couple of months. With it, you can have your own personal logbook of your blood pressure and heartrate, your weight, glucose and temperature, how much water you've been drinking, and more! It also has a little "journal" where you can log your mood and how you've been feeling overall each day. Medilog is a great option for people who want to keep track of their health with a privacy-respecting and open-source application.
+* Husky: If you're a member of the Fediverse, then this is an application you might want to check out. It is a client for Pleroma and Mastodon, with support for posting, commenting, reposting, emoji reactions, attachments, stickers, bookmarking, DMs, and all the other usual suspects. I use it regularly to check in on Neighborli, my Pleroma instance, while on the go!
+* Hacki: Hacki is a Hacker News client. I lurk and post from time-to-time on Hacker News, and Hacki is an elegant application that allows you to log into your HN account, browse stories, submit posts, comment on posts, vote on posts, download stories for offline viewing, and a lot more! If you're an HN user or lurker, I encourage you to check it out!
+
+=> https://f-droid.org/en/packages/com.zell_mbc.medilog/ Try Medilog! 
+=> https://f-droid.org/en/packages/su.xash.husky/ Try Husky! 
+=> https://f-droid.org/en/packages/com.jiaqifeng.hacki/ Try Hacki! 
+
+As usual, if you have any recommendations for FOSS mobile apps you like and use frequently, tell us about it on the Fediverse or X (check the footer of this page for social links), and we will be sure to highlight them in a future roundup!
+
+### ===
+
+Thanks for checking in on this June roundup of FOSSphones news! Remember to add our RSS feed to your favorite newsreader to stay up-to-date with us when we put out new roundups, if you'd like. Until next time, friends, and we'll see you in the next roundup!
+
+=> https://fossphones.com/feed.xml FOSSphones RSS feed
+
+## = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC:
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust
