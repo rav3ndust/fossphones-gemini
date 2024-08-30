@@ -1,0 +1,191 @@
+# FOSSphones
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/community.gmi  Community
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Linux Phone News - August 30, 2024
+
+Greetings, all, and welcome to your August edition of the news roundup! Unfortunately due to some personal things, including a death in the family and dealing with a bad wisdom tooth, I have not been able to do the July roundup. Therefore, this roundup will cover some of what has been going on both this month, and in July.
+
+Aside from a few notable updates, the last little bit has been a little sparse on major news in the way of mobile free software news - but we're going to cover the highlights, as we always do!
+
+### Phosh 0.41.0 Release
+
+Phosh is the mobile desktop environent built on GNOME technologies, and on the 15th of this month, the 0.41.0 release was announced. Let's take a look at what this newest update brings to the table.
+
+Just like we always do, we are going to summarize the changes in the Phosh core components, which include phosh-mobile-settings (a Phosh Settings application, like GNOME Settings) squeekboard (the virtual keyboard), and phosh-tour (a quick introduction to Phosh, like GNOME Tour). Here's the highlights in this release:
+
+~ Phosh updates 
+
+* Track position, track length, and a progress bar were added to the media player.
+* An optional Wi-Fi Hotspot Quick Setting was added.
+* A Bluetooth Quick Setting was added, allowing to quickly connect and disconnect from Bluetooth devices.
+* The device can now be placed in Silent mode by pressing volume-down button on incoming calls.
+* Quick Setting status pages were given more vertical space, so as to make larger lists of Wi-Fi networks or Bluetooth devices easier to interact with.
+* A host of internal improvements were made, along with some usual bug fixes.
+
+=> https://gitlab.gnome.org/World/Phosh/phosh/-/releases/v0.41.0 You can see the full list of updates for Phosh in greater detail here.
+
+~ Phoc updates 
+
+* Phoc should not crash on idle-inhibit changes.
+* Fling gestures are no longer accepted when swiping in a direction that isn't swipeable.
+* Some bugs were fixed!
+
+=> https://gitlab.gnome.org/World/Phosh/phoc/-/releases/v0.41.0 You can see the full list of updates for Phoc in greater detail here.
+
+~ Squeekboard updates
+
+* New layouts were added: Malayalam, German (Bone), and German (Neo 2).
+* New icons were added: zwsp (zero width space) and zwj (zero width joiner).
+
+=> https://gitlab.gnome.org/World/Phosh/squeekboard/-/releases/v1.41.0 You can see the full list of updates for Squeekboard here.
+
+~ Phosh Mobile Settings Updates
+
+* A toggle for battery percentage on the top bar panel is now available.
+* Camera flash can now be preferred as a notification LED.
+* Toggling silence on pressing volume-down button is now available.
+* Dbus is now able to be activated.
+* AdwAboutDialog is now in use.
+* Some issues were fixed.
+
+=> https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/releases/v0.41.0 You can see the full list of updates for Phosh Mobile Settings here.
+
+~ Phosh Tour Updates
+
+* Version consistency is now checked in CI. 
+
+=> https://gitlab.gnome.org/World/Phosh/phosh-tour/-/releases/v0.41.0 You can see the full list of updates for Phosh Tour here.
+=> https://phosh.mobi/releases/rel-0.41.0/ For all the details from the Phosh team, remember to check out the full update!
+
+To get this newest 0.41.0 update on your device running Phosh, make sure to check for updates, as usual!
+
+### GrapheneOS Now Supports Pixel 9 Series of Phones
+
+If you are a fan of the GrapheneOS operating system, and you are planning on picking up one of the newer Pixel devices, you will be glad to know that the OS is now officially supported on this line of the Pixel.
+
+If you are unfamiliar with the newer line of Pixel devices, here are the phones in question picking up support for GrapheneOS:
+
+* Pixel 9
+* Pixel 9 Pro 
+* Pixel 9 Pro XL 
+
+If you are picking up one of these phones and want to run GrapheneOS on it, don't forget that you can easily flash the OS on the device using the handy web installer to get up and running.
+
+=> https://grapheneos.org/install/web GrapheneOS Web Installer
+
+The announcement post (which will be linked below) does mention that you might encounter issues with Wi-Fi connectivity, though you can, of course, expect this bug to be fixed in relatively short time.
+
+=> https://x.com/GrapheneOS/status/1827288034682778099 You can check out the official announcement from the GrapheneOS team at this post on X.
+
+### Purism and Abside Collaborate to Bring Secure Phones to the US Government and NATO
+
+Purism, the maker of the free software mobile device, the Librem 5, is partnering up with Abside, a provider of secure networking solutions made in the USA. This collaboration aims to bring secure mobile devices to the US government and NATO countries.
+
+Besides making use of the "Liberty Phone", which is simply Purism's name for the Librem 5 produced in the United States, the collaboration also brings Abside's N79 5G network, which is meant specifically to be used by the government in the USA.
+
+The goal of the partnership is provide a secure device and mobile network for governmental use through the Abside network and Purism's devices running PureOS.
+
+Here is a further breakdown of the goals of the partnership:
+
+* Enhanced security through the Abside N79 network.
+* Enhanced privacy in communication using the Librem 5's features, which include its physical killswitches.
+* Achive compliance by meeting security requirements for US governmental and NATO countries.
+
+=> https://puri.sm/posts/abside-and-purism-partner-to-deliver-secure-mobile-solution-for-u-s-government-and-nato-countries/ You can read the full breakdown on this new partnership between Purism and Abside at this link.
+
+### Updates on PureOS 'Crimson' 
+
+Speaking of PureOS, Purism recently put out a new update on the development status of PureOS, the OS that powers its Librem line of laptops and smartphones.
+
+Let's take a quick look at some of the highlights to see what the team has been up to!
+
+There are currently a few issues blocking the team from a final release, but they are working on it. This includes some dependency problems and syncing packages from Debian Bookworm to PureOS Crimson. A few breakdown of these issues:
+
+* Dependencies: There are 4,766 dependencies in the way right now, which does sound like quite a bit, but it comes down to a few key packages. A good majority of it comes from a linux-libc-dev dependency. PureOS Crimson currently doesn't import the Debian package needed for arm64 thanks to an interaction with the Librem 5 kernel package. When the team is finished addressing this issue, they expect the number to come down considerably.
+* Sync: Sync: When a package is modified in PureOS, it won't properly sync anymore due to needed integration with changes in Debian. While there aren't currently a ton of issues with sync, a few of them are currently difficult to integrate. Some of these issues can happen thanks to complex packages downstream in PureOS, changes may have been done upstream in Debian, or sometimes, both.
+
+There is also work ongoing to improve ModemManager. Signal strength that isn't needed tends to consume a good bit of battery while polling. This is especially true on the Librem 5 devices thanks to the activity in the USB hub. It also applies to all other QMI modems that don't require signal strength polling. However, team member Sebastian fixed the issue and sent the fix upstream to the FreeDesktop Team, and it has been merged.
+
+While this wasn't an issue in the current version of PureOS (Byzantium), a change in 2022 from upstream enabled polling all the time - the Purism Team took care of this on their end.
+
+If you would like to help fund the development of the new version of PureOS, you can also contribute with a PureOS Subscription, recently announced by Purism to help advance the development of the operating system.
+
+=> https://puri.sm/posts/pureos-optional-subscription-added-to-advance-development/ PureOS Subscription
+=> https://puri.sm/posts/pureos-crimson-development-report-july-2024/ If you would like to see the full breakdown from the Purism Team, please check out this post for all of the details.
+
+### CalyxOS Updates For August
+
+The free software AOSP distribution, CalyxOS, has released their quarterly platform release and security update for August, as per usual. This update packs a bit more than the last one we covered.
+
+Let's take a look at what is new in this update:
+
+* CalyxOS 5.10.0 released to security express on August 7. This was just a day after Google released their update.
+* There was an issue where SIM cards couldn't be detected. This problem was fixed.
+* There was a bug where Chromium was crashing for some users. This issue was fixed.
+
+This update applies to these Pixel devices: 
+
+* Pixel 4a (5G) 
+* Pixel 5
+* Pixel 5a
+* Pixel 6
+* Pixel 6a
+* Pixel 7
+* Pixel 7a
+* Pixel 7 Pro 
+* Pixel 8
+* Pixel 8a 
+* Pixel 8 Pro 
+* Pixel Fold 
+* Pixel Tablet 
+
+The above listed devices received the Stable update on August 26, the Security express update on August 22, and the Beta update on August 23 (all OTA, as usual).
+
+Other Calyx-supported devices received the Security express update on August 29. The Beta update is coming today - August 30. The Stable update will land for these devices on September 2. If you run CalyxOS on a non-Pixel device, make sure you check for updates so you can makes sure you get the newest bits!
+
+=> https://calyxos.org/news/2024/08/23/august-updates/ If you want to read this update from the CalyxOS Team, check it out here.
+
+### FOSSphones App Highlights
+
+Every roundup, we like to try to feature some of the free software mobile applications we like to use on our phones, whether they are AOSP devices or mobile Linux phones. Here are some of the ones we'd like to give the spotlight to this time around:
+
+* Feeder: I don't know about you, but I have a lot of RSS feeds I like to keep up with. When I am on the go, I want to be able to check out the updates from some of my favorite feeds, and Feeder comes in handy for this. It supports RSS, Atom, and JSONFeed. You can easily add your favorite feeds right from the app, and they will pull updates from sites so you can read them at your leisure.
+* Podverse: If you like to listen to podcasts, this is a must-have on your device. It is a free software application for following your favorite podcasts and listening to them whenever you get a chance. It has an elegant UI, allowing you to quickly find your favorite podcasts and listen to them whenever you sit down for the evening with a good book, or to listen to as you go on a nice stroll.
+* Thud: Are you a news junkie? Nobody likes to have to go to several different websites to check out what's new in the world, but Thud handles that nicely for you. It collects all of your favorite news sources into one elegant application, so you can sit down and catch up on the news without having to go to a bunch of different sites. Simply select your news sources, let your feed populate, and get caught up!
+
+=> https://f-droid.org/en/packages/com.nononsenseapps.feeder/ Try Feeder!
+=> https://f-droid.org/en/packages/com.podverse.fdroid/ Try Podverse!
+=> https://f-droid.org/en/packages/com.aerotoad.thud/ Try Thud!
+
+As is the norm, we are always on the lookout for new FOSS mobile applications to check out. If there is one that we haven't highlighted in a roundup yet that you love to use (or if you are working on an app you'd like spotlighted), please be sure to let us know on the Fediverse or on X - our social links are on the footer of this site!
+
+### = = = 
+
+Thanks for dropping by to check out this edition of your FOSSphones news roundup! That will aobut do it for this time, and we will see you in the next one. Remember to add our RSS feed to your favorite newsreader to stay up-to-date with us when the next roundup comes out!
+
+=> https://fossphones.com/feed.xml FOSSphones RSS feed
+
+## = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC:
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust
