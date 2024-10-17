@@ -1,0 +1,236 @@
+# FOSSphones
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/community.gmi  Community
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Linux Phone News - October 15, 2024
+
+Greetings, and welcome to your October FOSSphones news roundup! We have a bit of catching up to do since the last one, so let's cover some of the biggest highlights of September up until now.
+
+We have a few big things to cover this time around, including a new Linux phone joining the fray, LineageOS gaining support on some new devices, a new release of Phosh, our usual FOSSphones App Highlights, and more. Let's take a look!
+
+### FuriPhone FLX1 - A New Linux Phone
+
+The FuriPhone is a new device from Furi Labs, and it is looking quite interesting.
+
+=> https://furilabs.com/ Furi Labs homepage
+
+The FuriPhone runs FuriOS, a Debian-derived system that aims to support also running Android applications through Waydroid. This first device from Furi Labs, the FLX1, sports the following specs:
+
+* Chipset: Mediatek Dimensity 900
+* Memory: 6GB LPDDR4X
+* Onboard storage: 128GB UFS2.1
+* Expanded storage: Up to 1TB (microSD)
+* CPU: 2x Cortex-A78 2.4Ghz, 6x Cortex A55 2.0Ghz
+* GPU: Mali G68 MC4
+* Front camera: 16MP
+* Rear camera: 50MP with optical image stabilization
+* Charging: Wired and wireless
+* Battery type: Li-Po removable
+* Connectivity type: USB-C 3.0
+* Display: 6.59" FHD+ IPS Display 10 point multi touch (Gorilla Glass 5)
+* Biometrics: Side-mounted fingerprint sensor
+* Headphone jack: 3.5mm waterproof
+
+On their blog, the Furi Labs team noted that the device now has USA bands enabled, with T-Mobile, AT&T, and Mint all having been confirmed to be working well with the Furi Phone.
+
+The Furi Labs team says they are aiming to build a device that they would want to use as their own daily driver, and I also welcome that same mindset in the Linux phone space. It will be interesting to see further developments on this device, as it is always nice to see new devices entering this still small space.
+
+=> https://furilabs.com/usa-bands/ Furi Labs post about enabling USA bands
+
+You can learn even more about the Furi Phone FLX1 at its product page.
+
+=> https://furilabs.com/shop/flx1/ Furi Phone FLX1 product page
+
+### Updates From the World of postmarketOS
+
+postmarketOS is one of the premier Linux phone distributions, and they have had quite a bit going on in their world lately. Let's take a look at some of the latest updates from the postmarketOS Team, and see what the project has been up to.
+
+=> https://postmarketOS.org postmarketOS homepage
+
+~ postmarketOS GitLab migration
+
+Recently, postmarketOS migrated from gitlab.org to its own, self-hosted instance of GitLab.
+
+Citing friction with some ways the managed version of GitLab is now, such as how the user sign-in works (credit card and phone number information required at signup), the utilization of Cloudflare, and more, the team has decided to move to their own, self-hosted instance of GitLab.
+
+The team's new instance of GitLab is being managed by the Oregon State University Open Source Lab, otherwise known as OSUOSL. This lab has also provided machines and services for free software projects such as GNOME, Kodi, KDE, Alpine Linux, OpenBSD, and more. The postmarketOS team mentions that this brings them the benefit of having the same source forge they've been using for a long time, but without some of the issues present on the managed instance.
+
+The postmarketOS Team's new GitLab instance is located here: 
+
+=> https://gitlab.postmarketOS.org postmarketOS new GitLab instance
+
+If you want a deeper dive into this story, you can read all about the recent migration in a blog post from the team here: 
+
+=> https://postmarketos.org/blog/2024/10/14/gitlab-migration/ blog post about GitLab migration
+
+~ postmarketOS updates
+
+There have also been a lot of new developments in the postmarketOS distribution itself. Let's take a quick look at some of the highlights:
+
+* Improvements are being made in the inclusion of systemd on postmarketOS. The team has finalized a design on how to enable services in systemd, after many discussions on the topic.
+* pmbootstrap v3's staging branch is now being tested in the pmaports CI.
+* Kernels received releases, with the latest being on Linux 6.11.
+* Kernel configuration was moved from pmbootstrap to the pmaports repo. A process is also in place to request and apply changes affecting multiple kernels.
+* GNOME 47 was released, and the GNOME Software apk has been updated.
+* Work is ongoing to add Alpine/musl CI for the entire KDE software stack.
+* A new device port was added for postmarketOS (Samsung Galaxy Tab s5e Wifi).
+* New installations of postmarketOS now use doas instead of sudo for privilege escalation.
+* GNOME Shell Mobile was updated with the latest patches.
+
+You can read all about some of these newest developments in the postmarketOS world here: 
+
+=> https://postmarketos.org/blog/2024/09/29/pmOS-update-2024-09/ update from postmarketOS Team
+
+### LineageOS Gains Support on More Devices
+
+LineageOS already supports a numerous amount of devices, and that support just expanded a bit with the announcement of five new devices joining the roster.
+
+Here are the newest devices gaining support:
+
+* Samsung Galaxy A71
+* Xiaomi Mi 10 Pro
+* Redmi K60 Pro
+* OnePlus Nord N10
+* Realme 10 Pro 5G
+
+These new devices join the list just after another round of devices also gained support for LineageOS just a month before, including:
+
+* LG G7 ThinQ
+* LG V35 ThinQ
+* LG V40 ThinQ
+* Realme 9 Pro 5G
+* Poco F4
+* Xiaomi Black Shark
+* moto g power 2021
+* moto e7 plus
+
+One of Android's biggest issues is the fact that so many device manufacturers cease OS support after just a handful of years, sometimes as few as two, and the devices might see only one major update (if any)! Custom Android distributions such as LineageOS keep these devices updated and secure, and safe from landfills. Why create more e-waste when your phone is still in perfectly fine condition, simply because the manufacturer decided to quit pushing updates?
+
+If you run any of the above devices and want to keep up-to-date with current versions of Android, or if you just want to use your favorite device without Google services, you might consider checking out LineageOS! A great way to run FOSS-only apps on your mobile phone if you want, while keeping your favorite device and staying up-to-date when it comes to your operating system version and security patches.
+
+If you're interested in running LineageOS on your own device and are unsure of whether or not it is currently supported, please take a look at the supported devices list on the LineageOS Wiki.
+
+=> https://wiki.lineageos.org/devices/ lineageOS device list
+
+### Phosh 0.42.0 Release
+
+Phosh, as you probably know, is one of the premier Linux phone "desktop environments" built on top of the GNOME stack. We've seen a steady stream of releases in the world of Phosh over the last few months, bringing incremental improvements to the impressive environment each time.
+
+=> https://phosh.mobi phosh homepage
+
+As usual, we will cover the updates to the Phosh shell, as well as some of its core components, below.
+
+~ Phosh updates
+
+* Lockscreen now adjusts to smaller display sizes.
+* Hide the brightness slider on the torch when there's only one brightness level.
+* Improve the appearance of notifications when there are multiple notifications from the same application.
+* Use mm-glib for ModemManager interaction, in preparation for Cell Broadcast support.
+* Ease setup and lib versioning for users of libphosh-rs.
+* Use parent's icon for toplevels when there isn't a matching icon.
+* WWan network types should now be handled better.
+* Number of days can now be configured in the upcoming-events plugin.
+* Other improvements and bug fixes.
+
+You can read the detailed list of changes to Phosh here: 
+
+=> https://gitlab.gnome.org/World/Phosh/phosh/-/releases/v0.42.0 phosh changelog
+
+~ Phoc updates
+
+* Preedit should now be preserved better. This makes the behavior of on-screen keyboards with text prediction and correction more predictable.
+* Internal cleanups and fixes.
+
+You can read the detailed list of changes to Phoc here: 
+
+=> https://gitlab.gnome.org/World/Phosh/phoc/-/releases/v0.42.0 phoc changelog
+
+~ Squeekboard updates
+
+* New layouts were added.
+* The height of the panel will now adapt to screens differently.
+* GSettings for adjusting panel height for keyboard have been added.
+* Squeekboard documentation has been improved.
+* update-alternatives is now supported when building a Debian package for Squeekboard and installing it.
+
+You can read the detailed list of changes to Squeekboard here: 
+
+=> https://gitlab.gnome.org/World/Phosh/squeekboard/-/releases/v1.42.0 squeekboard changelog
+
+~ Phosh Mobile Settings updates
+
+* Allow OSK layouts to be selected when OSK supports it.
+* Open the last opened panel on startup.
+* Some issues were fixed.
+
+You can read the detailed list of changes to Phosh Mobile Settings here: 
+
+=> https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/releases/v0.42.0 phosh mobile settings changelog
+
+If you haven't updated your device running Phosh in awhile, be sure to do so, so you can test out some of these newest improvements for yourself! If you want to get the full scoop on this 0.42.0 update in deeper detail, please check out the release announcement from the Phosh Team.
+
+=> https://phosh.mobi/releases/rel-0.42.0/ phosh 0.42.0 release announcement
+
+### Android 16 Could Feature Linux VM Support
+
+Users of Chromebooks and ChromeOS have been able to run virtualized Linux environments for awhile, and now it looks like similar functionality is about to make its way to Android.
+
+Logically extending from work done on the Ferrochrome project, where Google was showing off the ability of a new Pixel device to run ChromeOS, it is looking like Android 16 will be gaining a Terminal app with Linux VM support and GPU acceleration.
+
+Spotted from some recent commits to AOSP, this ferrochrome-dev-option would open up the Terminal app for use after the toggle has been flipped in Developer settings.
+
+Apparently, future plans for this integration include the ability to resize disks, forward ports, and recover partitions. It will be interesting to see this development begin to take shape and see future commits, which will be indicators of features one can expect from it.
+
+All of this is made possible thanks to the Android Virtualization Framework, and while some folks might not find the idea of running a Linux terminal in their phone all that thrilling, there are all kinds of possibilities that come from this development. Think of running Linux GUI apps on top of something such as Samsung's DeX mode - there is all kinds of fun that can be had with this once it takes shape.
+
+We've had similar things on Android thanks to tools such as Termux, but it is cool to see this taking shape as a native feature of Android.
+
+### FOSSphones App Highlights
+
+Each roundup, FOSSphones likes to spotlight some of the free and open-source mobile applications we have been using on our devices, whether they are degoogled AOSP devices, or mobile Linux phones.
+
+Here are some of the ones we have been enjoying since the last roundup:
+
+* InnerTune: InnerTune is a great FOSS app for listening to music. It is a Material 3 Youtube Music client, and plays tunes from the service without ads. It also has library management, background playback, the ability to search for songs, artists, and albums, cache and download songs for offline playback, silence skips, dynamic themes, Android Auto support, and more.
+* Audile: Audile is a FOSS alternative to something like Shazam. It is useful for recognizing music playing in the background.
+* Ente Auth: An open-source 2FA authenticator with end-to-end encrypted backups. FOSS alternative to mobile apps such as Microsoft Authenticator, Authy, or Google Authenticator.
+* Ente Photos: An open-source alternative to something like Google Photos, allowing you to backup your images to a more private cloud. Ente Photos is end-to-end encrypted, has backup and sync, and is multi-platform, allowing you to access your photos from any device with ease.
+
+=> https://f-droid.org/en/packages/com.zionhuang.music/ Check out InnerTune on f-droid!
+=> https://f-droid.org/en/packages/com.mrsep.musicrecognizer/ Check out Audile on f-droid!
+=> https://f-droid.org/en/packages/io.ente.auth/ Check out Ente Auth on f-droid!
+=> https://f-droid.org/en/packages/io.ente.photos.fdroid/ Check out Ente Photos on f-droid!
+
+Have you been using some cool FOSS mobile apps lately that we haven't spotlighted here yet? Let us know on the Fediverse or X (our social links are in the footer of this site), and we will cover it in a future FOSSphones App Highlight!
+
+### = = = 
+
+That just about wraps it up for this FOSSphones news roundup! Thanks again for stopping by and reading this one, and if you haven't yet, be sure to add our RSS feed to your favorite newsreader so you can stay updated when the newest roundup comes around.
+
+=> https://fossphones.com/feed.xml FOSSphones RSS feed
+
+Hope you are having a great start to your autumn (depending on which part of the world you are in), and we will see you in the next one!
+
+## = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC:
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust
