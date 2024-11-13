@@ -11,9 +11,9 @@
 
 ## Welcome to FOSSphones!
 
-> Linux Phone News Update - October 15, 2024 - Available Now!
+> Linux Phone News Update - November 13, 2024 - Available Now!
 
-=> gemini://fossphones.com/10-15-24.gmi Linux Phone News - October 15, 2024
+=> gemini://fossphones.com/11-13-24.gmi Linux Phone News - November 13, 2024
 
 Thank you for visiting FOSSphones. We're glad you stopped by!
 
