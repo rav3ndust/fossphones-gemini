@@ -1,0 +1,159 @@
+# FOSSphones
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/community.gmi  Community
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Linux Phone News - November 13, 2024
+
+Hey there, and welcome, as usual, to your FOSSphones November News Roundup!
+
+We have some cool new updates to get into, including a new release of Ubuntu Touch, an update on the FuriPhone, a new project attempting to port FreeBSD to the PinePhone Pro, and more. We will also, of course, have our usual FOSSphones App Highlight to share our FOSS mobile app choices with you for this month. With all that being said, let's dive into the roundup!
+
+### Ubuntu Touch OTA-6 (Focal) Released
+
+If you're a fan of Ubuntu Touch like I am, then you might be glad to know there is a new update to check out! A maintenance release of the 20.04 (focal) series, OTA-6 is available, or is becoming available, for the following devices:
+
+* Asus ZenPhone Max Pro M1
+* f(x)tec Pro1 X
+* FairPhone 3 and 3+
+* FairPhone 4
+* Google Pixel 3a and 3a XL
+* Jingpad A1
+* OnePlus 5 and 5T
+* OnePlus 6 and 6T
+* OnePlus Nord N10 5G
+* OnePlus Nord N100
+* Sony Xperia X
+* Vollaphone
+* Vollaphone X
+* Vollaphone X23
+* Xiaomi Poco X3 NFC / X3
+
+The number of changes in this update are minimal, due to the team's current focus on the Ubuntu base OS upgrades. However, even with that being said, there are still some changes to keep in mind with this update.
+
+Some support for newer generations of the Android HAL (hardware abstraction layer) has been added. This will help Ubuntu Touch support newer devices, including the FairPhone 5 and the forthcoming Vollaphone Quintus even better, without implying full support for these devices at this time.
+
+Wireless Display has seen some improved stability on some devices.
+
+There were also some general bug fixes and security updates.
+
+Keep in mind that for this release, VoLTE has been disabled on the Vollaphone X23 and Vollaphone 22 running the Halium 12 port. This was due to a regression at the last minute, and work is ongoing to debug the issue and get it restored on the affected devices.
+
+If you want to read the full update from the Ubuntu Touch Team on this new OTA-6 upgrade, and learn how to get it on your own device, please check out the full post from the Ubuntu Touch Team to get the full scoop.
+
+=> https://ubports.com/en/blog/ubports-news-1/post/ubuntu-touch-ota-6-focal-release-3942 Read the full update from the Ubuntu Touch Team!
+
+### A New Update on FuriPhone's FuriOS
+
+Last roundup, we covered the new FuriPhone from FuriLabs. This time around, we have a new update from this project to share with you, in the form of some updates to its operating system, FuriOS.
+
+FuriOS 13.0.4 brings support for things like:
+
+* Modem status visibility inside of Android apps.
+* Fixes for SMS message delivery and modem crashes.
+* Fixes for mobile data not reactivating when switching away from Wi-Fi.
+* UI overhaul in some screen sections in Settings.
+* FuriPhone can now be used as a charging source for other devices.
+
+All in all, this looks to be a nice quality-of-life improvement for Furi Labs' Debian-based operating system, and I look forward to continuing to see what comes from the company in future releases.
+
+There were a bunch of smaller fixes, as well, that were not mentioned here. If you want to see the full scoop on this new update to FuriOS, check out the post at the link below.
+
+=> https://furilabs.com/changelog/ Read the full changelog from the Furi Labs Team!
+
+### A New Project Begins, Attempting to Port FreeBSD to PinePhone Pro
+
+Now this is pretty cool, and something I will be paying close attention to as work goes on with it. I love and appreciate all free operating systems, not just GNU/Linux, so that includes projects which I also use sometimes, such as FreeBSD. FreeBSD has been an integral part of the FOSS world for a long time, keeping that BSD train rolling, along with the few other *BSD distributions we have out there (netBSD, openBSD, etc).
+
+FreeBSD does just fine on the desktop and server, but there haven't been any serious efforts to bring it over to mobile, at least to my knowledge. That changes now, with this new announcement from FreeBSD, from their quarterly status update. In a section called "PinePhone Pro Support", with a short section describing how there is currently an image that boots on PinePhone Pro (FreeBSD RELEASE), it has no working screen output, and has some other issues.
+
+The goal for the announcement being outlined, then, is to "step-by-step support additional components so that the device (PinePhone Pro) might be usable as a highly mobile FreeBSD device". Also, according to the announcement, groundwork has been being laid to support cross-compiling a custom 15.0-RELEASE kernel, as well as toggling LEDs. The next step will be to write drivers for the RK818 power management chip, and then continuing on from there.
+
+Obviously, this is in a very early state of work in the FreeBSD community with no bootable images to test out just yet, but keep an eye on this project! I know I will be, and look forward to testing out a working image of FreeBSD on mobile. It will be a lot of fun to test out and help contribute to.
+
+If you want to learn more about this announcement and read more of the FreeBSD quarterly update, I invite you to check out the link below for the lowdown.
+
+=> https://www.freebsd.org/status/report-2024-07-2024-09/#_pinephone_pro_support Read the full proposal on FreeBSD's quarterly status report.
+
+### Phosh 0.42.1 Release
+
+Phosh is a regular on this roundup, as it tends to see new updates at least once a month. This is fine with me, as it is my preferred mobile Linux environment at the moment, and I love continuing to see it evolve.
+
+=> https://phosh.mobi phosh homepage
+
+A few weeks ago, it saw its latest stable release, 0.42.1. We're going to cover the majority of this update, and as usual, invite you to read the full post from the Phosh Team at the link we will leave at the end of this part of the update.
+
+This update exists in order to bring important bug fixes for phoc and squeekboard, so we won't be covering any updates to Phosh shell itself today.
+
+~ Phoc updates
+
+* Fix interaction between preedit and pointer.
+* Fix flickering text bubbles, for example, in gtk4 text selection.
+* Disable direct scan-out when shell overlay is needed.
+* Other issues were fixed.
+
+You can read the detailed list of changes to Phoc here: 
+
+=> https://gitlab.gnome.org/World/Phosh/phoc/-/releases/v0.42.1 phoc changelog
+
+~ Squeekboard updates
+
+* Fix incorrect or missing character output in Electron, and some other, apps.
+* Don't accidentally clear modifiers after pressing other buttons.
+
+You can read the detailed list of changes to Squeekboard here: 
+
+=> https://gitlab.gnome.org/World/Phosh/squeekboard/-/releases/v1.42.1 squeekboard changelog
+
+This update was a lot more minimal than the last few we've covered when it comes to Phosh, mostly covering some bug fixes in Phosh core components, adding more stability and creating one of our premiere mobile desktop environments.
+
+If you want to learn more about the 0.42.1 update in full, I encourage you, as usual, to check out the full post (linked below) from the Phosh Team.
+
+=> https://phosh.mobi/releases/rel-0.42.1/ phosh 0.42.1 release announcement
+
+### FOSSphones App Highlights
+
+Each and every roundup, FOSSphones likes to spotlight some of the free and open-source mobile applications we have been using on our devices, whether they are degoogled AOSP devices, or mobile Linux phones.
+
+Here are some of the ones we have been enjoying since the last roundup:
+
+* Fucks Given: Fucks Given is a simple little application that allows you to check how much emotional investment you have into those little things in life. You can make notes of times you reacted out of sorts to something small, and you can see all the "fucks" you gave by date or on a handy little chart.
+* Clipious: A handy little Material Design application that allows you to watch YouTube videos over different Invidious instances. You can even easily add subscriptions without signing into an account, and download videos, if you wish.
+* Moshidon: Moshidon is a Mastodon application that acts like the official Mastodon app, with some improvements. It is Material-themed, so it will look nice on your device. Unlike the official Mastodon app, it also allows you to browse the Federated feed, letting you see past your Home feed and into the wider fediverse. You can also use different accounts, if you so desire.
+
+=> https://f-droid.org/en/packages/rocks.poopjournal.fucksgiven/ Check out Fucks Given on F-Droid!
+=> https://f-droid.org/packages/com.github.lamarios.clipious/ Check out Clipious on F-Droid!
+=> https://f-droid.org/packages/org.joinmastodon.android.moshinda/ Check out Moshidon on F-Droid!
+
+Have you been using some cool FOSS mobile apps lately that we haven't spotlighted here yet? Let us know on the Fediverse or X (our social links are in the footer of this site), and we will cover it in a future FOSSphones App Highlight!
+
+### = = = 
+
+That will just about do it for this FOSSphones News Roundup. I will be keeping an eye out, as usual, on new developments for our next roundup, and until the time comes for it, I hope you have a great November!
+
+=> https://fossphones.com/feed.xml FOSSphones RSS feed
+
+Hope you are having a great start to your autumn (depending on which part of the world you are in), and we will see you in the next one!
+
+## = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi    FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC:
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust
