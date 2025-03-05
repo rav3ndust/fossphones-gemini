@@ -25,7 +25,7 @@ Anyone familiar with the concept of Linux phones has heard of Ubuntu Touch, orig
 
 Ubuntu Touch has always been one of my favorite mobile distros, and the Ubports team has recently announced a call for testing of the newest iteration of the Ubuntu Touch operating system, 20.04 OTA-8.
 
-##### What's new in Ubuntu Touch 20.04 OTA-8?
+#### What's new in Ubuntu Touch 20.04 OTA-8?
 
 The Ubuntu Touch OTA-8 release is considered a maintenance release of the 20.04 series. Being a more minimal release, it won't be packed with brand new features, but it does bring with it some bugfixes and QoL upgrades that are always welcome.
 
@@ -36,7 +36,7 @@ Here are some of the biggest things users will notice while using OTA-8:
 * You can now remove pictures from contact entries.
 * As always, security updates and general issue fixes.
 
-##### When is OTA-8 releasing?
+#### When is OTA-8 releasing?
 
 Ubuntu Touch's OTA-8 dropped on February 28. Got a device that supports Ubuntu Touch and want to give it a shot? With all these updates coming along, every new release is an even better time to think about checking it out on your own phone!
 
@@ -52,7 +52,7 @@ Mobian is probably a name you're familiar with if you've been hanging around FOS
 
 In a new post on the Mobian blog, we got a look back at the last few months as well as the roadmap for 2025. The post is chock-full of updates, so we're going to take a quick look at some of the highlights, as usual.
 
-##### Aiming for a 'device-specific apps only' software repository
+#### Aiming for a 'device-specific apps only' software repository
 
 The Mobian team notes that thanks to the involvement of upstream projects accepting or writing patches to their applications, ensuring their usability on mobile devices, the main Debian repository now has a good amount of adaptive GNOME and KDE software that can be used comfortably on both desktop and mobile devices.
 
@@ -64,7 +64,7 @@ The team plans on removing the remaining applications before the Trixie release,
 
 The team notes that it plans to keep maintaining a patched version of GTK3 until Phosh is ported to GTK4, meaning all packages in the Mobian repo will be Mobian-specific and hardware support packages.
 
-##### A new greeter
+#### A new greeter
 
 The Mobian team notes that back when the project started, no mobile-friendly greeter existed, and so they were going to take a stab at hacking Phosh and creating one, since it was meant to run on a Wayland compositor, had a lockscreen that could be developed into a login screen, and had touch input and keyboard management already.
 
@@ -74,7 +74,7 @@ Eventually, a community member (@samcday) came along inspired by this effort the
 
 Phrog is now part of the main Debian repo and is going to be used as the main greeter in Mobian as soon as it makes it way to the testing repo. The Mobian team notes that this will reduce the amount of tech-debt they have to deal with going forward.
 
-##### Supporting more devices with Mobian
+#### Supporting more devices with Mobian
 
 The team put a lot of work in ensuring Qualcomm-based devices can be supported using packages present in Debian. Because of these efforts, the only Mobian-specific packages needed are the device kernels. Since this work was done, the Mobian project has added a few new supported devices:
 
@@ -83,15 +83,15 @@ The team put a lot of work in ensuring Qualcomm-based devices can be supported u
 
 If you have one of these devices, you can now give Mobian a shot on them!
 
-##### What's coming up next?
+#### What's coming up next? 
 
 The team also had a little "what's next?" section in the update, mentioning that due to low dev bandwidth, they didn't get quite as much knocked out in the 2024 roadmap as they'd have liked, and some of those items will be addressed after the next stable release. For now, the team is going to be focused on bugfixes in preparation for the release of Debian Trixie.
 
 The team also mentions they will be participating in this year's Google Summer of Code, with their proposal for improving device tweaks management in Debian being approved. The team also plans to attend DebConf'25 in Brest, France, so you might get to say hi to some of the team if you plan on attending!
 
-##### Get the full scoop
+#### Get the full scoop 
 
-This is just a small peek, of course, at the full post from the Mobian Team. It's linked below, and I encourage you to check it out to catch up on anything that we might have missed!
+This is just a small peek, of course, at the full post from the Mobian Team. It's linked below, and I encourage you to check it out to catch up on anything that we might have missed! 
 
 => https://blog.mobian.org/posts/2025/02/early-2025-news/ First 2025 update from the Mobian Team
 
@@ -107,7 +107,7 @@ If you haven't messed with postmarketOS before, it also has pmbootstrap, a very 
 
 With all that in mind, let's begin getting into this new update from the postmarketOS team and see what has been new! Like the Mobian update, this one is quite big, so we are going to be going through the main highlights.
 
-##### systemd has been merged into edge
+#### systemd has been merged into edge
 
 Announced in an update almost a year ago, systemd has made its way into postmarketOS.
 
@@ -115,13 +115,13 @@ Announced in an update almost a year ago, systemd has made its way into postmark
 
 The systemd packages are placed into a separate repo, so that users can continue using openRC instead if they so choose. However, the postmarketOS team notes that some of the major mobile desktop environmens such as GNOME Mobile, Phosh, and Plasma Mobile will run better with systemd, so they encourage making the switch.
 
-##### a more mobile-friendly Thunderbird
+#### a more mobile-friendly Thunderbird
 
 Just like the desktop version of Firefox got a bit of a mobile makeover with mobile-config-firefox on swaths of mobile Linux distributions, the awesome free software email application, Thunderbird, now has a more mobile-friendly look with mobile-config-thunderbird.
 
 mobile-config-thunderbird can be found in postmarketOS edge. If you are on stable, the team notes the package can be backported on demand, and you can also install it directly from the git repo. If you like, you are also free to run it on other mobile Linux distributions, if you so choose.
 
-##### Lomiri makes its way back to postmarketOS edge
+#### Lomiri makes its way back to postmarketOS edge
 
 Lomiri, the desktop environment project from our friends at Ubports that aims to revive Canonical's Unity, which used to be the default desktop experience on Ubuntu, has made its way back into postmarketOS edge repos.
 
@@ -129,7 +129,7 @@ Lomiri, the desktop environment project from our friends at Ubports that aims to
 
 For awhile, due to libraries and frameworks that Lomiri was dependent on being different in Alpine compared to what the Ubuntu Touch team was using, Lomiri was removed from the master branch and moved into a feature branch in postmarketOS. Thankfully, in 2025, the situation is much different, and the gap of library versions between the two projects are much smaller now, the postmarketOS team notes. Due to most Lomiri-related packages being upstreamed to Alpine, Lomiri is now a usable mobile desktop option on postmarketOS again. So, if you're wanting that 'Unity' feel on your phone and you run postmarketOS, you can now use it once again!
 
-##### pmbootstrap updates
+#### pmbootstrap updates
 
 pmbootstrap is a tool that allows you to create custom images of postmarketOS. It is now on its 3.2.0 release, and with it, some new changes have been introduced! Note that this release or newer is required for building systemd-enabled images.
 
@@ -141,7 +141,7 @@ Here are some of the main updates to pmbootstrap to keep in mind:
 * Code quality improvements was done that should make maintenance much easier.
 * Smaller issue fixes and improvements were done.
 
-##### Newly supported devices
+#### Newly supported devices
 
 postmarketOS now supports some new devices! Here's the list:
 
@@ -161,7 +161,7 @@ postmarketOS now supports some new devices! Here's the list:
 
 If you have one of these supported devices and want to try out Linux, consider giving postmarketOS a shot on it!
 
-##### ...and even more!
+#### ...and even more!
 
 There was a host of other things mentioned in the update by the postmarketOS team, including new stuff in pmaports, misc. news, a future roadmap, some artwork and homepage updates, and more! We won't get into all of it here since it was such a massive update, so make sure you check out the other stuff the team has been up to at the link below!
 
@@ -177,7 +177,7 @@ CalyxOS, the FOSS Android distribution available for Pixels and some other devic
 
 A good amount of changes were implemented here, and we're going to cover the devices this update is rolling out to, when the update came to the devices, and some of the highlights from the update itself. Let's get into it!
 
-##### Which devices are supported by calyxOS 6.4.2?
+#### Which devices are supported by calyxOS 6.4.2?
 
 If you have any of the following devices, you can run this CalyxOS 6.4.2:
 
@@ -187,10 +187,12 @@ If you have any of the following devices, you can run this CalyxOS 6.4.2:
 * Moto g52
 * Moto g42
 * Moto g32
+
 > ~ For an entire list of devices supported by calyxOS, please check the link below.
+
 => https://calyxos.org/docs/guide/device-support/ CalyxOS supported device list
 
-##### When did the update begin rolling out?
+#### When did the update begin rolling out? 
 
 As usual, calyxOS has a few update channels, and when your device gets the update depends on which one you're on. Over the last week, the update started hitting their respective channels:
 
@@ -202,7 +204,7 @@ As usual, calyxOS has a few update channels, and when your device gets the updat
 
 If you're on a supported device and ready to check out the new bits, check for updates! By the time you read this, it will have rolled out to all channels.
 
-##### What are some of the new changes in this update?
+#### What are some of the new changes in this update?
 
 There are a good amount of updates to go over from calyxOS 6.4.2. Here are some of the highlights:
 
@@ -297,7 +299,7 @@ Here are a few of the apps I've been using since the last roundup.
 
 Got a cool FOSS mobile app you've been using (or building)? Let us know about it so we can give it some time in the spotlight! If you've discovered a cool FOSS mobile apps that we haven't covered here yet, let us know about it by reaching out to us on our email or our social media accounts, and we will check it out and highlight it here in a future roundup.
 
-### = = =
+### = = = 
 
 Well, that's about it - another FOSSphones News Roundup already in the history books. We've seen some cool new releases in this month, and some new announcements from some of our favorite projects on what they've been up to since the new year began, and what some of the plans are going to be for the projects moving forward. We're already three months into 2025, and things are looking good for some of our favorite mobile FOSS projects.
 
