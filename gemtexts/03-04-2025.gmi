@@ -317,3 +317,5 @@ Like what we're doing? Send us some crypto if you want to contribute to keeping 
 
 * XMR:
 4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust
