@@ -53,6 +53,7 @@ Here are some of the latest news and notes from around the world of Linux phones
 => gemini://fossphones.com/01-31-25.gmi Linux Phone News - January 31, 2025
 => gemini://fossphones.com/03-04-2025.gmi Linux Phone News - March 4, 2025
 => gemini://fossphones.com/04-29-2025.gmi Linux Phone News - April 29, 2025
+=> gemini://fossphones.com/07-01-2025.gmi Linux Phone News - July 1, 2025
 
 = = = = = = = = = =
 
