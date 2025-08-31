@@ -15,7 +15,7 @@ Welcome to the August edition of your monthly FOSSphones news roundup! It's been
 
 ### Phosh 0.49.0 release
 
-We usually have a new release of Phosh to cover in each of our monthly roundups, and this one is no different! The ever-busy Phosh Team has been hard at work on the popular mobile Linux environment, and on August 15, brought out this new **0.49.0** release of Phosh for you to enjoy on your devices. Here's what's new in this release, covering each component and the changes they received in this update:
+We usually have a new release of Phosh to cover in each of our monthly roundups, and this one is no different! The ever-busy Phosh Team has been hard at work on the popular mobile Linux environment, and on August 15, brought out this new 0.49.0 release of Phosh for you to enjoy on your devices. Here's what's new in this release, covering each component and the changes they received in this update:
 
 #### ~ Phosh changes
 
