@@ -11,9 +11,9 @@
 
 ## Welcome to FOSSphones!
 
-> Linux Phone News Update - July 1, 2025 - Available Now!
+> Linux Phone News Update - August 31, 2025
 
-=> gemini://fossphones.com/07-01-2025.gmi Linux Phone News - July 1, 2025
+=> gemini://fossphones.com/08-31-2025.gmi Linux Phone News - August 31, 2025
 
 Thank you for visiting FOSSphones. We're glad you stopped by!
 
