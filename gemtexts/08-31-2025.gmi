@@ -1,0 +1,159 @@
+# FOSSphones
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/community.gmi  Community
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Linux Phone News - August 31, 2025
+
+Welcome to the August edition of your monthly FOSSphones news roundup! It's been a busy month, and I'm finally able to spend this weekend diving into the August wrap-up. Thanks for joining in, once again! We have quite a bit to cover in this roundup, including a new release of Phosh (as usual - our Phosh friends are always busy!), a new release of FuriOS, news from the CalyxOS community, the announcement of the discontinuation of the PinePhone Pro, and a funded project from postmarketOS. We also, of course, have our monthly mobile FOSS app spotlights to go through, so let's jump right into it!
+
+### Phosh 0.49.0 release
+
+We usually have a new release of Phosh to cover in each of our monthly roundups, and this one is no different! The ever-busy Phosh Team has been hard at work on the popular mobile Linux environment, and on August 15, brought out this new **0.49.0** release of Phosh for you to enjoy on your devices. Here's what's new in this release, covering each component and the changes they received in this update:
+
+#### ~ Phosh changes
+
+* upcoming-events is allowed to exclude days without events.
+* The Rust-based Phrosh portal is used when available.
+* In overview: Search entry doesn't take up the whole width of the display.
+* The media widget's cover art thumbnails have been improved.
+* The keypad and search bar styling has been improved.
+* Fixes related to cellbroadcast.
+* Pomodoro timer can now be started on shell unlock.
+* searchd was added.
+* General bugfixes were done.
+
+=> https://gitlab.gnome.org/World/Phosh/phosh/-/releases/v0.49.0 A detailed list of changes for Phosh can be found here.
+
+#### ~ Phoc changes
+
+* Initial sysprof support was added.
+* When the shell is not up, input in shell mode is rejected.
+* A user-after-free crash on shell unlock was fixed.
+* A crash related to popups was fixed.
+* The clang+musl build was fixed.
+* General bugfixes were done.
+
+=> https://gitlab.gnome.org/World/Phosh/phoc/-/releases/v0.49.0 A detailed list of changes for Phoc can be found here.
+
+#### Phosh Mobile Settings changes
+
+* Keyword search to panel switcher was added.
+* History of Cell Broadcast messages was added to alerts-panel.
+* In osk-panel, allow to configure scaling.
+* In osk-panel, allow the addition and removal of terminal keyboard shortcuts.
+* General bugfixes were done.
+
+=> https://gitlab.gnome.org/World/Phosh/phosh-mobile-settings/-/releases/v0.49.0 A detailed list of changes for Phosh Mobile Settings can be found here.
+
+If you would like to explore the entirety of this release directly from the Phosh Team, please feel free to peruse the release announcement, linked below!
+
+=> https://phosh.mobi/releases/rel-0.49.0/ Phosh 0.49.0 release announcement
+
+### FuriOS 13.1.1 release
+
+FuriOS, the Debian-based mobile Linux distribution, has seen a new release, 13.1.1. If you have a FuriPhone, this section is for you!
+
+Here are a few of the changes coming your way in this update:
+
+* Introduction of a smart dynamic low memory killer.
+* Support for cell broadcasts and modem improvements.
+* Fix issues related to Vulkan, MMS stability, and some memory leak problems.
+* General bugfixes and stability improvements.
+
+Please note that this is also the last release based on Debian Trixie.
+
+To update your FuriOS installation, pop open the Software store, visit the "Updates" section, and press "Update All" (or update via the terminal if you prefer) - then grab some coffee and wait on the updates to proceed to begin enjoying your shiny new version of FuriOS!
+
+This update does a lot to bring more stability and all-round usability to your FuriOS device. Enjoy the new update, and if you want to read the announcement straight from the FuriOS Team, please check out the original release announcement, linked below!
+
+=> https://furilabs.com/update-13-1-1/ FuriOS 13.1.1 release announcement
+
+### Final OTA push before new CalyxOS release
+
+Recently, due to changes in leadership in the CalyxOS project, the project has been in a bit of a transitional hiatus while conducting audits and updating signing keys and security protocols. With this in mind, the CalyxOS Team has brought out a new post (linked below) detailing a final OTA push informing users who might not have known about the hiatus, as well as some details about the next release that will be coming forth after the transition period.
+
+By the way, if you're a CalyxOS user and have not read the open letter to the community about the leadership transition and the current hiatus, we encourage you to check it out - it's linked below.
+
+=> https://calyxos.org/news/2025/08/01/a-letter-to-our-community/ CalyxOS letter to the community
+
+ In regards to this new OTA push (the final before the hiatus ends and normal development resumes), here are some things to expect:
+
+* Through a system notification, users will be informed that the current version of the OS will receive no future updates, linking them to the community letter to learn more about the transition and hiatus. Once the project comes out of the hiatus, an additional notification will be received, directing users to reinstall CalyxOS to receive updates going forward.
+* Moto and Fairphone devices will receive a patch to fix an issue the team discovered relating to an anti-rollback protection feature.
+* The latest open-source security updates for Android 15 (note that this is not a full CalyxOS security update, but 2025-08-01 platform patches only).
+
+This OTA will be rolling out to the Security Express and Beta channels on September 2, and will hit the Stable channel the following day, September 3. It's important to remember that this OTA is unrelated to the work to port to Android 16 or the AOSP QPR1 update, which the team is monitoring and working on.
+
+You can read more about this OTA push by checking out the announcement from the CalyxOS Team at the link below.
+
+=> https://calyxos.org/news/2025/08/27/last-ota-update-before-new-calyxos-release/ CalyxOS OTA announcement
+
+### PinePhone Pro has been discontinued
+
+The good folks at Pine64, home of the PinePhone, PineTime, PineTab, Pinebook Pro, and a host of single-board computers and other open hardware projects, have announced the discontinuation of the PinePhone Pro. In a post from August 14 (link below), the team shared that the Pro edition of the PinePhone was not selling well enough to keep production of the devices going. However, if you are the owner of a PinePhone Pro, there is still a spot of good news - spare parts are still going to be made for at least two years, demand-dependent.
+
+The PinePhone project as a whole is still alive and well, though. While the PinePhone Pro has been officially de-listed from the Pine Store, you can still purchase the trusty PinePhone if you don't have one yet. There will also be a limited run of refurbished PinePhone Pro devices you can purchase if you wish.
+
+While it is always saddening to see a FOSS hardware device bidding farewell, I hope that this allows Pine64 to continue to build its vision hardware-wise for a new PinePhone device in the future while continuing to keep the current iteration of PinePhone up and going. As the owner of my two trusty PinePhones (a PinePhone postmarketOS Community Edition as well as a Braveheart Edition), I'm ever-hopeful and thankful for the wonderful, hackable hardware we get from devices like the PinePhone!
+
+If you wish, you can check out the announcement of the PinePhone Pro's discontinuation at the post from the Pine64 blog, linked below.
+
+=> https://pine64.org/2025/08/14/august_2025_short_update/ August 2025 update from Pine64
+
+### new postmarketOS project: from callaudiod to wireplumber plugin
+
+ The postmarketOS Team recently acquired higher-than-expected donations, more than the team had budgeted for the year (awesome!), and began making plans to put it to good use. The team amended the budget to add a project expense, and allotted 6400€ for some audio-related work.
+
+This project's goal is to replace the aging callaudiod service, originally built for PulseAudio, and replace it with a new, modern plugin that integrates cleanly with Pipewire. Richard A., a postmarketOS contributor known for his work in maintaining the Pixel 3a port, adding support for call audio on the device and in the kernel, and efforts in getting VoLTE working on mainline Qualcomm devices, was contracted to handle implementing the Wireplumber solution.
+
+So far, working throughout the summer, Richard A. has submitted upstream merge requests for the new Wireplumber module and Lua scripts that handle automatic call audio routing through ModemManager. This will allow phone calls to seamlessly switch audio profiles without any extra components or handling at the app level.
+
+This work is still under review, but once it is integrated, it will help pave the way for gradually deprecating callaudiod and maturing the mobile Linux audio stack. Thanks, Richard A. and the postmarketOS team, for continuing to push forward in this important area in making Linux phones even better!
+
+Would you like to learn more about this effort from the postmarketOS team? Check out their blog post (linked below) detailing the story in full!
+
+=> https://postmarketos.org/blog/2025/08/17/callaudiod-wireplumber-project/ postmarketOS: callaudiod to wireplumber project post
+
+### FOSSphones App Highlights
+
+As you know, every month we go through and highlight some of our favorite FOSS mobile applications we've been using. August is no different in this regard, and I have a few great pieces of software I've been using on my LineageOS devices I'd like to share.
+
+* Olauncher: Olauncher is a minimal launcher for Android devices, and it is exceptionally clean. It has no icons and no distractions, just a simple homescreen where you can pin up to eight apps, and an apps drawer you can pull up to select other apps that aren't pinned. I started using it last month as the main launcher for my devices, and am pleased with both the functionality and the aesthetic - I already use a very minimalistic desktop, so going the same route on my phone seemed to make sense! If you want to give it a shot, I definitely recommend installing Olauncher on your own device and seeing how you like the flow of using it.
+* Lotus: Lotus is an elegant, open-source music player for Android. Using Material Design, it matches the theme of your device, or allows you to set up your own theme style in the settings. It has an equalizer built right in so you can adjust the audio how you like it, as well as audio focus, which pauses music playback on the device when another application needs to play audio. I have been using it lately as the main music player for my local collection when on the go, and it has been a very nice experience.
+* Easy Notes: Easy Notes is an extremely simple and beautiful note-taking app that does just what it says on the tin - easily provides facilities to write your notes! You can write your notes in Markdown, and then switch to reader mode to view them nicely formatted and ready for you. When you launch the app, you'll see your notes waiting in expandable boxes, and a button at the bottom inviting you to write your next note. Using Material Design, it also matches your device's theme, blending right in with your other Material apps and looking good doing it. It's become my main app for taking notes on the go (and I've used so many note-taking apps!)
+
+=> https://f-droid.org/packages/app.olauncher/ Download Olauncher on F-Droid!
+=> https://f-droid.org/packages/com.dn0ne.lotus/ Download Lotus on F-Droid!
+=> https://f-droid.org/packages/com.kin.easynotes/ Download Easy Notes on F-Droid!
+
+Are there some FOSS mobile apps you'd like us to shine the spotlight on that we haven't gotten around to yet? Please get in touch with us over email or our social channels and let us know about them so we can be sure to include them in a future FOSSphones App Highlight!
+
+### = = = 
+
+That's another FOSSphones news roundup wrapped! As always, thanks for stopping by and reading this edition.
+
+Enjoy the rest of your summer as we get closer to approaching autumn (hard to believe we're already towards the tail end of the year), and we will see you in the September edition of the FOSSphones news roundup!
+
+## = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC:
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust
