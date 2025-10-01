@@ -11,13 +11,13 @@
 
 ## Welcome to FOSSphones!
 
-> Linux Phone News Update - August 31, 2025
+> Linux Phone News Update - September 30, 2025
 
-=> gemini://fossphones.com/08-31-2025.gmi Linux Phone News - August 31, 2025
+=> gemini://fossphones.com/2025-09-30.gmi Linux Phone News - September 30, 2025
 
 Thank you for visiting FOSSphones. We're glad you stopped by!
 
-This is our newest home on Gemini. It's cool to now be able to bring the news about Linux phones to the Gemini protocol. 
+This is our newest home on Gemini. It's cool to now be able to bring the news about Linux phones to the Gemini protocol.
 
 => https://fossphones.com/feed.xml add the FOSSphones News Roundup to your RSS feeds!
 
@@ -41,7 +41,7 @@ Check out the About Us tab to learn more about fossphones and what we're all abo
 
 Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
 
-* BTC: 
+* BTC:
 1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
 
 * ETH:
