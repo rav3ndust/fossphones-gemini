@@ -1,0 +1,225 @@
+# FOSSphones
+### your number one source for linux phone news
+
+=> gemini://fossphones.com/community.gmi  Community
+=> gemini://fossphones.com/news.gmi       News
+=> gemini://fossphones.com/os.gmi         Operating Systems
+=> gemini://fossphones.com/software.gmi   Software
+=> gemini://fossphones.com/devices.gmi    Devices
+=> gemini://fossphones.com/contact.gmi    Contact Us
+=> gemini://fossphones.com/about.gmi      About Us
+
+## Linux Phone News - September 30, 2025
+
+Autumn is officially here, and another month has gone by, meaning it must be time for the new FOSSphones News Roundup!
+
+We've got a new device to talk about, some mobile distro release news from some of our favorite projects, as well as a new mobile distribution entering the scene. We also have, of course, our usual FOSS App Highlights showcasing some of our favorite free and open-source mobile software we have been using over the past month.
+
+That said, let's jump right into this September edition of your latest news roundup and see what's been cooking in the world of open-source on mobile!
+
+### Furi Labs Releases the New FuriPhone FLX1s
+
+Riding in as a followup to the previous FLX1 device from Furi Labs, the team has announced the brand new FLX1s, a Linux phone now in production. Pre-sales for the device are now open, and it is in a production run right now, which is scheduled to be wrapped up by the end of October of this year.
+
+Like its predecessor, the FLX1s runs FuriOS, a distro based on Debian. Here is a quick breakdown of the specs you can expect to find on this new device:
+
+* MediaTek Dimensity 900 chipset
+* 8GB LPDDR4X dual-channel memory
+* 128GB UFS storage
+* 2x Cortex-A78 2.4Ghz/6x Cortex A55 2.0Ghz CPU
+* Mali G68 MC4 GPU
+* 13MP f/2.0 front camera, 20MP f/1.8 back camera, 2MP f/2.4 macro camera
+* 5000mAh Li-Po battery, wired USB-C 2.0 charging
+* 2G/3G/4G/5G/5G ENDC modem
+* Dual SIM slots
+* Wifi 6.0, Bluetooth 5.2
+* Supports microSD up to 1TB
+* 6.7" 1600x720 HD+ display
+* 90Hz refresh rate
+* Asahi Dragontrail glass
+* Side-mounted killswitches for Microphone, Modem/GPS, and Camera
+
+You can read the launch announcement of the new FLX1s device from the Furi Labs team at this link:
+
+=> https://furilabs.com/flx1s-is-launched/ FuriPhone FLX1s launch announcement
+
+You can also see the full breakdown and spec-sheet for the FLX1s at this link:
+
+=> https://furilabs.com/shop/flx1s/ FuriPhone FLX1s spec sheet and further information
+
+### Purism Brings Out New Alpha for PureOS "Crimson"
+
+The Purism team has announced that they have closed their first milestone and released alpha images for PureOS Crimson to all Librem devices. This means you can now test out the new version of PureOS on your own devices if you'd like to see what new changes are coming around the corner, test out the images, and let the PureOS Team know about any issues you encounter so they can get them fixed!
+
+The docs for each device are as follows, listed as links:
+
+=> https://docs.puri.sm/Software/PureOS/Installation.html Installation instructions for the Librem 13, Librem 14, Librem 15, and Librem Mini
+=> https://docs.puri.sm/Hardware/Librem_5/Maintenance/Reflashing.html Reflashing instructions for the Librem 5
+=> https://docs.puri.sm/Hardware/Librem_11/Maintenance/Reinstalling_OS.html Reflashing instructions for the Librem 11
+=> https://docs.puri.sm/Hardware/Librem_Server/Maintenance/Reinstalling_OS.html Reflashing instructions for the Librem Server
+
+You can see a list of known issues, as well as let the PureOS Team know about your experience if you decide to try out the alpha (relevant links also linked below)!
+
+=> https://source.puri.sm/pureos/tasking/-/issues/?sort=created_asc&state=opened&label_name%5B%5D=PureOS%20Crimson%20GR&first_page_size=20 List of known issues
+=> https://source.puri.sm/pureos/tasking/-/issues/new Let the PureOS Team know about your experience
+
+A few known issues have already been fixed, including two bugs affecting Firefox, updating the Librem 5 kernel to Linux 6.6.101, and a fix for the first-run-setup's fit on small displays. If you have installed the alpha, you can update your system and receive these latest changes and fixes.
+
+Purism notes that the goal of this alpha is to make sure that OS essential functionality works, and through community testing the team can identify and fix any bugs before customers encounter them. The next milestone for PureOS Crimson is going to be the beta, where the team notes that you will be able to upgrade from PureOS Byzantium without requiring a reflash. Major functionality is expected to work in the beta, and users will be able to update directly to the general release from the beta, as well.
+
+If you want to read the full post about the PureOS Crimson alpha straight from the team, be sure to check it out at the link below for the full scoop!
+
+=> https://puri.sm/posts/pureos-crimson-august-2025-alpha-released/ Purism announcement about PureOS Crimson alpha release
+
+### Ubuntu Touch 20.04 OTA-10 Release
+
+Ubuntu Touch is the Ubuntu-derived mobile Linux distribution stewarded by the good folks at Ubports. The team has recently released OTA-10, which is based Ubuntu 20.04 "Focal" LTS. Since late September, it has been rolling out to supported devices (including a new one making its way into the list of supported devices, the Rabbit R1, noted below):
+
+* Asus Zenfone Max Pro M1
+* F(x)Tec Pro 1 X
+* Fairphone 3 and 3+
+* Fairphone 4
+* Google Pixel 3a and 3a XL
+* JingPad A1
+* Lenovo Tab M10 HD 2nd Gen Wifi/LTE
+* OnePlus 5 and 5T
+* OnePlus 6 and 6T
+* OnePlus Nord N10 5G
+* OnePlus Nord N100
+* Rabbit R1 (new supported device!)
+* Sony Xperia X
+* Volla Phone
+* Volla Phone X
+* Volla Phone 22
+* Volla Phone X23
+* Volla Phone Quintus
+* Volla Tablet
+* Xiaomi Poco X3 NFC/X3
+* Xiaomi Poco M2 Pro
+* Xiaomi Redmi 9 and 9 Prime
+* Xiaomi Redmi Note 9
+* Xiaomi Redmi Note 9 Pro/Pro Max/9S
+
+If you have any of these devices, OTA-10 is ready for you!
+
+Changes in this update include the main attraction being the new Upgrader tool, which will allow for an easy transition to Ubuntu Touch based on Ubuntu 24.04 "Noble Numbat" LTS. There were also some bug fixes made, with improvements made to aethercast, bluez, lomiri-system-settings-system-update, qtwebengine, pulseaudio-module-droid-discover, libusermetrics, and more.
+
+Ubuntu Touch 24.04-1.0 was originally going to release alongside this 20.04 OTA-10 release, but a bug discovered in which some devices fail to boot after installing the RC2 required the team to delay the release. They note that they are looking into it and will be providing updates as soon as they can.
+
+Interested in reading the full changelog in this new release of Ubuntu Touch? If so, check out the full post from the Ubports Team at the link below for the scoop.
+
+=> https://ubports.com/blog/ubports-news-1/ubuntu-touch-20-04-ota-10-release-3972 Ubuntu Touch 20.04 OTA-10 release announcement
+
+### Droidian 101 Release
+
+Droidian is a mobile GNU/Linux distro built on top of Mobian, with the goal of running Debian on Android devices. This is done using technologies such as libhybris and Halium.
+
+Recently, Droidian saw its 101 release, and there are a host of new changes and improvements made. Let's check it out and see what's new!
+
+Droidian snapshot 101 comes almost after a year of development, and brings some of these highlights in the update:
+
+* A Debian sid base
+
+New to the graphics stack:
+
+* wlroots 0.17.4
+* phosh 0.49.0
+* phoc 0.47.0
+* GTK 4.18.4
+* Qt 6.8.2
+* phosh-mobile-settings 0.49.0
+* phosh-osk-stub 0.49.0
+
+Other updates and changes:
+
+* Firefox 142.0
+* Audio - support added for external USB-C audio cards and adapters
+* Audio - better support for headphones
+* Power saver - allow for auto-disabling Bluetooth if not being used (can be enabled in Settings)
+* Settings - allow for launching media player on headphone connection
+* Settings - allow for pausing media on headphone disconnection
+* Experimental - support for KDE Plasma Mobile 6.3.6, with Wayfire as compositor
+* Experimental - hardware acceleration on Firefox
+* GNOME platform - Update to GNOME 48, and bring related GNOME apps up-to-date as well.
+
+Android app support (Waydroid):
+
+* Waydroid updated to 1.5.4
+* Images have been updated to Android 13
+* HALIUM_13 added to Waydroid vendor images
+
+Additional fixes:
+
+* Platform - Thumbnail creation on some devices was fixed, improvements on the telephony stack were made, and more.
+
+Some new devices are now supported! Here's the list:
+
+* Lenovo ThinkPhone
+* Volla Phone X
+* Volla Phone X23
+* Volla Phone Quintus
+* Volla Phone 22
+* Volla Tablet
+
+Some other bug fixes and improvements were also made that have not been mentioned here.
+
+What a big update for Droidian! If you want to see the full changelog and get the full scoop, make sure to read the announcment on the project's GitHub, linked below:
+
+=> https://github.com/droidian-images/droidian/releases/tag/droidian%2F101.20250906 Droidian 101 announcement
+
+### Pine64 Showcases the Movuan Project
+
+In a late August project showcase, Pine64 provided a spotlight to the Movuan project. Being forked from Mobian, this project aims to be for mobile what Devuan is for desktop - an alternative for distributions using the systemd init system.
+
+For those unaware, Devuan is a fork of Debian, providing alternative init systems such as sysvinit (the default), openrc, runit, s6, and others. This is a personal preference for people who prefer not to use SystemD, and for all practical purposes, other than its alternative init systems, you'll find the Devuan and Movuan look and run largely the same as Debian and Mobian.
+
+Movuan was started by Pine64 community member lxb, and announced in a forum post. As a Mobian fork, it uses modified versions of Mobian's debos to build its images. There is also an optional script that can provide extra software to customize a Movuan image, including AndroidImpEx for importing contacts and SMS messages from an Android device, Ungoogled Chromium, and more.
+
+At the moment, the Movuan project offers images based on Devuan 5.0 (which is in turn based on Debian 12) with the Phosh mobile desktop environment. Images can be found in the project's Gitlab, along with installation instructions. If you'd like, you can also build your own image using the debos recipe.
+
+=> https://gitlab.com/l2385/movuan/movuan-recipes/-/releases Movuan project's GitLab
+=> https://gitlab.com/l2385/movuan/movuan-recipes#install Movuan installation instructions
+=> https://gitlab.com/l2385/movuan/movuan-recipes#prepare-your-build-system Movuan debos recipe
+
+In the future, Movuan hopes to merge with upstream Devuan as an official version, but this will require some work and polish before it can happen. To help Movuan in this regard, packaging and testing assistance is needed. If you'd like to offer a helping hand to Movuan, get in touch with lxb!
+
+If you would like to read the full post from Pine64, check out the Project Showcase at the link below!
+
+=> https://pine64.org/2025/08/27/august_2025_movuan/ Movuan Project Spotlight from Pine64
+
+### FOSSphones App Highlights
+
+If you've been a long-time FOSSphones reader, then you'll know that every roundup we cover some of the FOSS mobile apps we've been using on either mainline Linux phones, or on AOSP operating systems such as LineageOS. As usual, we've got another three to cover this month that I've been testing out!
+
+* Clipious: A client for Invidious, which is a privacy-focused frontend to Youtube. It has livestream support, the ability to use either public servers or your own, background playback enabled, user playlists, an Android TV UI, video/audio download, and more! If you like to use Invidious clients on your desktop, you might find this mobile-focused version to be a helpful tool.
+* Delta Chat: Delta Chat is a unique decentralized instant messenger using email as its backend. It supports end-to-end encryption and can work with existing email accounts or special chatmail accounts for enhanced privacy. It is extensible, and tools like shopping lists, calendars, or gaming apps can be added to chats. It also supports multiple chat profiles, and can be setup on as many devices as you wish.
+* Battle For Wesnoth: Battle For Wesnoth is a game you might be familiar with on your Linux desktop (I love playing it!). This release on F-Droid for mobile is currently in alpha, so if you have ever wanted to play the game on the go, now is your chance to shine! If you've never played it, Battle For Wesnoth is a turn-based strategy game with roots in fantasy. You can play single-player, or online multiplayer with friends.
+
+=> https://f-droid.org/en/packages/com.github.lamarios.clipious/ Download Clipious on F-Droid!
+=> https://f-droid.org/en/packages/com.b44t.messenger/ Download Delta Chat on F-Droid!
+=> https://f-droid.org/en/packages/org.wesnoth.Wesnoth/ Download Battle For Wesnoth on F-Droid!
+
+Know of any cool open-source mobile apps we've not covered here before, or one that's been updated that we haven't covered in awhile? If you're using or developing a FOSS mobile app, please reach out to us and let us know about it so we can highlight it here!
+
+### = = =
+
+It's been a great last month full of some new releases, and great to see a new mobile Linux device entering the fray! The constant evolution of mobile distributions and the expansion of devices capable of running Linux is only going to continue to strengthen the capabilities of mobile Linux, bringing in more interest from devs and users alike.
+
+That about wraps our September FOSSphones news roundup, and we will see you in the next one! Until then, hope you have a spectacular beginning of October as we close the books on this month.
+
+## = = = = = = = = = =
+
+=> gemini://fossphones.com/index.gmi FOSSphones
+
+Like what we're doing? Send us some crypto if you want to contribute to keeping this site up and running!
+
+* BTC:
+1K76vKnBp7ptd2viX5gp6gWE5knSrSjHjL
+
+* ETH:
+0xc51F36C9f939b721890c7df922D197cE068E4D4e
+
+* XMR:
+4ANpq4fxmb6N9ekXNvuJ4rLCG1A3bxyA2386X9xV3JsjZWJCbnKrVACdPD8rnpENtdAbMkmmMDrBNcrQZzVADeMMMTTWdXm
+
+> fossphones is proudly built and maintained by rav3ndust
